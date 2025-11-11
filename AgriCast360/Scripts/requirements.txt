@@ -1,5 +1,8 @@
-pandas
-requests
-psycopg2-binary
-vaderSentiment
-python-dotenv
+pandas==2.2.3
+requests==2.32.3
+psycopg2-binary==2.9.9
+vaderSentiment==3.3.2
+python-dotenv==1.0.1
+xgboost==2.1.1
+scikit-learn==1.5.2
+joblib==1.4.2
