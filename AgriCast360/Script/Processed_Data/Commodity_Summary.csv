@@ -1,4 +1,4 @@
-Commodity,Avg_Price,Min_Price,Max_Price,StdDev_Price,Avg_Volatility,Record_Count
+Commodity,Avg_Price,Min_Price,Max_Price,Std_Price,Avg_Volatility,Records
 Bhindi(Ladies Finger),3181.08,850.0,7500.0,1079.65,57.68,830
 Paddy(Dhan)(Common),2090.05,1550.0,3325.0,218.75,10.67,822
 Pointed gourd (Parval),4091.25,850.0,12500.0,1374.96,46.88,539

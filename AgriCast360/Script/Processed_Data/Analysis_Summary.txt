@@ -1,65 +1,52 @@
 
-================================================================================
 AGRICULTURAL PRICE DATA ANALYSIS REPORT
-Date Range: 2024-01-01 to 2025-01-01
+Generated: 2025-11-12 14:41:20
 ================================================================================
 
 EXECUTIVE SUMMARY:
 - Total Records: 14,965
-- Commodities Tracked: 68
-- Markets Covered: 19
+- Commodities: 68
+- Markets: 19
 - Data Completeness: 100% (No missing values)
-- Temporal Coverage: 365+ days
+- Period: 2024-01-01 to 2025-01-01
 
-KEY STATISTICS:
-- Average Modal Price: INR 4510.77
-- Price Range: INR 650 - INR 25000
+KEY STATISTICS (Modal Price Units: Rs/Quintal):
+- Average: Rs 4510.77
+- Median: Rs 3500.00
+- Range: Rs 650 - Rs 25000
 - Average Volatility: 85.80%
 
-TOP 5 MOST EXPENSIVE COMMODITIES:
-1. Sesamum: INR 12009.56
-2. Kartali: INR 10817.76
-3. Turmeric: INR 10469.89
-4. Peas cod: INR 9687.54
-5. Yam: INR 8907.94
+TOP 5 COMMODITIES BY PRICE:
+1. Sesamum(Sesame,Gingelly,Til): Rs 12009.56
+2. Kartali (Kantola): Rs 10817.76
+3. Turmeric (raw): Rs 10469.89
+4. Peas cod: Rs 9687.54
+5. Yam (Ratalu): Rs 8907.94
 
-TOP 5 MOST VOLATILE COMMODITIES:
+TOP 5 COMMODITIES BY VOLATILITY:
 1. Lemon: 226.36%
 2. Onion: 224.59%
-3. Turmeric: 223.57%
+3. Turmeric (raw): 223.57%
 4. Tomato: 196.71%
-5. Cucumber: 191.98%
+5. Cucumbar(Kheera): 191.98%
 
-TOP 5 MOST TRADED COMMODITIES:
-1. Bhindi (Ladies Finger): 1400+ records
-2. Onion: 1300+ records
-3. Potato: 1200+ records
-4. Tomato: 1200+ records
-5. Bottle Gourd: 1100+ records
+TOP 5 COMMODITIES BY VOLUME (Records):
+1. Bhindi(Ladies Finger): 830 records
+2. Paddy(Dhan)(Common): 822 records
+3. Pointed gourd (Parval): 539 records
+4. Brinjal: 501 records
+5. Bengal Gram(Gram)(Whole): 311 records
 
-SEASONAL PATTERNS:
-- Peak Season: June (INR 5164 average price)
-- Low Season: January-February (INR 3846-4030)
-- Monsoon Period (Jul-Sep): Variable prices with high volatility
-
-WEATHER-PRICE CORRELATIONS:
-- Temperature Minimum: +0.81 (Strong Positive)
-- Temperature Range: -0.63 (Strong Negative)
-- Wind Gusts: +0.60 (Moderate Positive)
-- Cloud Cover: +0.59 (Moderate Positive)
-- Wind Speed: +0.58 (Moderate Positive)
-
-INSIGHTS:
-1. Strong seasonal patterns exist - lower temperatures correlate with higher prices
-2. Weather conditions significantly impact agricultural prices
-3. Different commodities show different volatility profiles
-4. Time-series forecasting model can be built for price prediction
-5. Commodity-specific models recommended due to varied behaviors
+DATA READINESS FOR ML:
+✓ Complete dataset (0 missing values)
+✓ Daily coverage (365+ days)
+✓ Multiple commodities for generalization
+✓ Multiple markets for cross-validation
+✓ Weather data integrated
 
 NEXT STEPS:
-1. Feature engineering for ML models
-2. Building commodity price predictor
-3. Creating Power BI dashboards for visualization
-4. Weather integration for forecast models
-
+1. Feature engineering (lagged prices, rolling averages)
+2. ML model development (commodity price predictor)
+3. Weather integration for forecast accuracy
+4. Power BI dashboard creation
 ================================================================================
