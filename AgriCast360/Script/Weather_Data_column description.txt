@@ -1,0 +1,55 @@
+🌦️ Solar Radiation & Irradiance
+
+dhi → Diffuse Horizontal Irradiance (W/m²)
+dni → Direct Normal Irradiance (W/m²)
+ghi → Global Horizontal Irradiance (W/m²)
+max_dhi → Maximum DHI (W/m²)
+max_dni → Maximum DNI (W/m²)
+max_ghi → Maximum GHI (W/m²)
+solar_rad → Total solar radiation (W/m²)
+t_dhi → Timestamp of peak DHI (Unix time)
+t_dni → Timestamp of peak DNI (Unix time)
+t_ghi → Timestamp of peak GHI (Unix time)
+t_solar_rad → Timestamp of peak solar radiation (Unix time)
+
+🌡️ Temperature & Humidity
+
+temp → Average temperature (°C)
+max_temp → Maximum temperature (°C)
+max_temp_ts → Timestamp of max temperature (Unix time)
+min_temp → Minimum temperature (°C)
+min_temp_ts → Timestamp of min temperature (Unix time)
+dewpt → Dew point temperature (°C)
+rh → Relative humidity (%)
+
+🌬️ Wind
+
+wind_dir → Average wind direction (degrees, 0–360°)
+wind_spd → Average wind speed (m/s)
+wind_gust_spd → Peak wind gust speed (m/s)
+max_wind_spd → Maximum sustained wind speed (m/s)
+max_wind_spd_ts → Timestamp of max wind speed (Unix time)
+max_wind_dir → Wind direction at time of max wind speed (degrees)
+
+🌧️ Precipitation & Snow
+
+precip → Total precipitation (mm)
+precip_gpm → Precipitation from GPM satellite (mm)
+snow → Snowfall amount (mm)
+snow_depth → Snow depth on ground (mm)
+
+🌞 UV & Cloud Cover
+
+clouds → Cloud cover (%)
+max_uv → Maximum UV index (unitless scale, 0–11+)
+
+📊 Pressure
+
+pres → Atmospheric pressure at ground level (hPa)
+slp → Sea-level pressure (hPa)
+
+📅 Time & Metadata
+
+datetime → Date of observation (DD-MM-YYYY)
+ts → Main record timestamp (Unix time)
+revision_status → Data quality flag (e.g., final, provisional)
