@@ -1,0 +1,24 @@
+📚 Required Libraries (Python 3.11.9 Compatible)
+🔑 Core
+opencv-python==4.9.0.80 → Webcam capture, frame processing
+mediapipe==0.10.6 → Pre-trained Pose model (33 landmarks)
+numpy==1.26.4 → Numerical operations on landmark arrays
+pandas==2.2.0 → Logging results into CSV
+schedule==1.2.1 → Run detection at fixed intervals
+logging (built-in) → Debugging and error tracking
+
+🧪 Optional Utilities
+matplotlib==3.8.2 → Quick visualization of pose landmarks or detection results
+python-dotenv==1.0.1 → Manage environment configs (paths, intervals, etc.)
+scikit-learn==1.4.0 → If you want to train a simple classifier on pose landmarks
+
+--------------------------------------------------------------------------------------------------
+Pre-Trained Model
+
+MediaPipe Pose (Google)
+
+✅ Already comes pre-trained, lightweight, and optimized for real-time webcam use.
+✅ No need to manually download weights — it’s bundled with the mediapipe library.
+✅ Outputs 33 body landmarks (x, y, z coordinates) that you can map to actions (wave, sit, jump).
+✅ Easy integration with OpenCV for live feed.
+⚡ Best for gesture/action recognition pipelines where you log results (CSV).

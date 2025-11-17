@@ -3,5 +3,39 @@
     "Bardoli_Katod": "completed",
     "Bardoli_Madhi": "completed",
     "Kosamba": "completed",
-    "Kosamba_Vankal": "2024-05-15"
+    "Kosamba_Vankal": {
+        "status": "completed",
+        "last_fetched_day": "2024-12-31"
+    },
+    "Kosamba_Zangvav": {
+        "status": "completed",
+        "last_fetched_day": "2024-12-31"
+    },
+    "Mahuva": {
+        "status": "completed",
+        "last_fetched_day": "2024-12-31"
+    },
+    "Mahuva_Anaval": {
+        "status": "completed",
+        "last_fetched_day": "2024-12-31"
+    },
+    "Mandvi": {
+        "status": "completed",
+        "last_fetched_day": "2024-12-31"
+    },
+    "Nizar": {
+        "status": "completed",
+        "last_fetched_day": "2024-12-31"
+    },
+    "Nizar_Kukarmuda": {
+        "status": "completed",
+        "last_fetched_day": "2024-12-31"
+    },
+    "Nizar_Pumkitalov": {
+        "status": "completed",
+        "last_fetched_day": "2024-12-31"
+    },
+    "Songadh": {
+        "last_fetched_day": "2024-08-01"
+    }
 }

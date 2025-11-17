@@ -1,0 +1,10 @@
+
+Model / Library	Key Features	Notes
+OpenFace	Torch/PyTorch-based, inspired by FaceNet	Lightweight, good for embedding generation
+FaceNet (Google)	Triplet loss-based embeddings	Very accurate, widely used in academia and industry
+DeepFace (Facebook)	Deep CNN trained on large dataset	High accuracy, supports multiple backends (TensorFlow, PyTorch, Keras)
+Dlib	ResNet-based face recognition	Easy to use, integrates with Python, supports face landmarks
+ArcFace	Additive angular margin loss	State-of-the-art accuracy, robust embeddings
+InsightFace	MXNet/PyTorch implementation of ArcFace	Pre-trained models available, strong performance
+OpenCV (DNN Face Detector)	Uses ResNet-10 SSD	Good for detection + recognition pipelines
+ONNX Model Zoo (Face Recognition models)	Pre-trained models in ONNX format	Easy deployment across frameworks

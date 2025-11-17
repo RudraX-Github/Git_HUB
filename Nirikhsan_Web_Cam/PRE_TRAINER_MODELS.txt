@@ -1,0 +1,9 @@
+
+Model / Framework	Type	Use Case
+YOLOv3 / TinyYOLOv3	Object detection	Detect people + contextual actions in real time
+SSD MobileNet	Lightweight detection	Fast, low-resource webcam projects
+RetinaNet	Object detection	Higher accuracy, slower than YOLO
+HAR Models (CNN, RNN, LSTM)	Human Activity Recognition	Classify actions like walking, waving, sitting
+I3D (Inflated 3D ConvNet)	Video-based action recognition	Strong baseline for complex actions
+C3D (Convolutional 3D)	Video-based	Recognizes spatiotemporal patterns in short clips
+OpenPose / MediaPipe Pose	Pose-based	Gesture recognition (wave left, wave right, jump, sit)
