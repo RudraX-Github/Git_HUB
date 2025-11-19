@@ -3,10 +3,12 @@ import mediapipe as mp
 import tkinter as tk
 from tkinter import ttk
 from threading import Thread
+from PIL import Image, ImageTk
 
 # Globals
 cap = None
 running = False
+video_label = None
 
 # MediaPipe Pose setup
 mp_pose = mp.solutions.pose
@@ -21,11 +23,14 @@ def start_camera():
         Thread(target=show_camera).start()
 
 def stop_camera():
-    global cap, running
+    global cap, running, video_label
     running = False
     if cap is not None:
         cap.release()
-        cv2.destroyAllWindows()
+        cap = None
+    if video_label is not None:
+        video_label.config(image='')
+        video_label.image = None
 
 def classify_action(landmarks, h, w):
     """
@@ -69,8 +74,12 @@ def classify_action(landmarks, h, w):
         return "Unknown"
 
 def show_camera():
-    global cap, running
-    while running and cap.isOpened():
+    global cap, running, video_label
+    
+    if cap is None or not cap.isOpened():
+        return
+    
+    while running and cap is not None and cap.isOpened():
         ret, frame = cap.read()
         if not ret:
             break
@@ -87,19 +96,31 @@ def show_camera():
         cv2.putText(frame, f"Action: {action_label}", (20, 40),
                     cv2.FONT_HERSHEY_SIMPLEX, 1, (0, 255, 0), 2)
 
-        cv2.imshow("Pose-based Gesture Recognition", frame)
-
-        if cv2.waitKey(1) & 0xFF == ord('q'):
-            break
+        # Convert frame to ImageTk format for Tkinter display
+        frame_rgb = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
+        img = Image.fromarray(frame_rgb)
+        img_tk = ImageTk.PhotoImage(image=img)
+        
+        if video_label is not None:
+            video_label.config(image=img_tk)
+            video_label.image = img_tk  # Keep a reference
 
     stop_camera()
 
 # Tkinter GUI
 root = tk.Tk()
 root.title("Camera Control with Pose-based Gestures")
-root.geometry("300x120")
+root.geometry("800x700")
 
-ttk.Button(root, text="Start Camera", command=start_camera).pack(pady=10)
-ttk.Button(root, text="Stop Camera", command=stop_camera).pack(pady=10)
+# Control frame at top
+control_frame = ttk.Frame(root)
+control_frame.pack(pady=10)
+
+ttk.Button(control_frame, text="Start Camera", command=start_camera).pack(side=tk.LEFT, padx=5)
+ttk.Button(control_frame, text="Stop Camera", command=stop_camera).pack(side=tk.LEFT, padx=5)
+
+# Video display label
+video_label = tk.Label(root, bg='black')
+video_label.pack(fill=tk.BOTH, expand=True, padx=10, pady=10)
 
 root.mainloop()
