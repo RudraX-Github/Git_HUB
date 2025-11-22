@@ -1,0 +1,10 @@
+2025-11-22 11:15:46,296 - WARNING - System initialized
+2025-11-22 11:15:46,794 - WARNING - Loaded 2 guards
+2025-11-22 11:16:41,152 - WARNING - Loaded 2 guards
+2025-11-22 11:17:16,938 - WARNING - Tracking initialized for 1 targets (Pose Buffer: 12 frames).
+2025-11-22 11:17:25,707 - WARNING - Tracking initialized for 1 targets (Pose Buffer: 12 frames).
+2025-11-22 11:17:32,910 - WARNING - Tracking initialized for 1 targets (Pose Buffer: 12 frames).
+2025-11-22 11:17:44,244 - WARNING - Camera 0 started successfully
+2025-11-22 11:17:54,817 - WARNING - Alert mode started - logging enabled
+2025-11-22 11:18:19,886 - WARNING - Initiating graceful shutdown...
+2025-11-22 11:18:20,330 - WARNING - Shutdown complete

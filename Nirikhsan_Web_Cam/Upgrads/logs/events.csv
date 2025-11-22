@@ -1,0 +1,61 @@
+Timestamp,Name,Action,Status,Image_Path,Confidence
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+2025-11-22 10:54:37,rudresh,Standing,ALERT TRIGGERED,alert_snapshots\alert_rudresh_20251122_105437.jpg,0.58
+2025-11-22 10:54:38,rudresh,Standing,ALERT CONTINUED,N/A,0.58
+2025-11-22 10:54:41,rudresh,Standing,ALERT CONTINUED,N/A,0.58
+2025-11-22 10:54:43,rudresh,Standing,ALERT CONTINUED,N/A,0.58
+2025-11-22 10:54:46,rudresh,Standing,ALERT CONTINUED,N/A,0.58
+2025-11-22 10:54:48,rudresh,Standing,ALERT CONTINUED,N/A,0.58
+2025-11-22 10:55:00,rudresh,Standing,ALERT TRIGGERED,N/A,0.58
+2025-11-22 10:55:03,rudresh,Standing,ALERT CONTINUED,N/A,0.58
+2025-11-22 10:55:05,rudresh,Standing,ALERT CONTINUED,N/A,0.58
+2025-11-22 10:55:08,rudresh,Standing,ALERT CONTINUED,N/A,0.58
+2025-11-22 10:55:10,rudresh,Standing,ALERT CONTINUED,N/A,0.58
+2025-11-22 10:55:13,rudresh,Standing,ALERT CONTINUED,N/A,0.58
+2025-11-22 10:55:16,rudresh,Standing,ALERT CONTINUED,N/A,0.58
+2025-11-22 10:55:18,rudresh,Standing,ALERT CONTINUED,N/A,0.58
+2025-11-22 10:55:21,rudresh,Standing,ALERT CONTINUED,N/A,0.58
+2025-11-22 10:55:23,rudresh,Standing,ALERT CONTINUED,N/A,0.58
+2025-11-22 10:55:34,rudresh,Standing,ALERT TRIGGERED,alert_snapshots\alert_rudresh_20251122_105534.jpg,0.51
+2025-11-22 10:55:37,rudresh,Standing,ALERT CONTINUED,N/A,0.51
+2025-11-22 10:55:40,rudresh,Standing,ALERT CONTINUED,N/A,0.51
+2025-11-22 10:55:42,rudresh,Standing,ALERT CONTINUED,N/A,0.51
+2025-11-22 10:55:45,rudresh,Standing,ALERT CONTINUED,N/A,0.51
+2025-11-22 10:55:47,rudresh,MISSING,ALERT TRIGGERED - TARGET MISSING,N/A,0.51
+2025-11-22 10:55:50,rudresh,MISSING,ALERT TRIGGERED - TARGET MISSING,N/A,0.51
+2025-11-22 10:55:53,rudresh,MISSING,ALERT TRIGGERED - TARGET MISSING,N/A,0.51
+2025-11-22 10:55:55,rudresh,Standing,ALERT CONTINUED,N/A,0.57
+2025-11-22 10:55:57,rudresh,Hands Up,Action Performed,N/A,0.57
+2025-11-22 11:01:48,rudresh,MISSING,ALERT TRIGGERED - TARGET MISSING,alert_snapshots\alert_rudresh_20251122_110148.jpg,0.57

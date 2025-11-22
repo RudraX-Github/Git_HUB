@@ -36,6 +36,70 @@
         "last_fetched_day": "2024-12-31"
     },
     "Songadh": {
-        "last_fetched_day": "2024-08-01"
+        "status": "completed",
+        "last_fetched_day": "2024-12-31"
+    },
+    "Songadh_Badarpada": {
+        "status": "completed",
+        "last_fetched_day": "2024-12-31"
+    },
+    "Songadh_Umrada": {
+        "status": "completed",
+        "last_fetched_day": "2024-12-31"
+    },
+    "Surat": {
+        "status": "completed",
+        "last_fetched_day": "2024-12-31"
+    },
+    "Uchhal": {
+        "status": "completed",
+        "last_fetched_day": "2024-12-31"
+    },
+    "Valod_Buhari": {
+        "status": "completed",
+        "last_fetched_day": "2024-12-31"
+    },
+    "Vyara_Paati": {
+        "status": "completed",
+        "last_fetched_day": "2024-12-31"
+    },
+    "Vyra": {
+        "status": "completed",
+        "last_fetched_day": "2024-12-31"
+    },
+    "Amreli": {
+        "status": "completed",
+        "last_fetched_day": "2024-12-31"
+    },
+    "Babra": {
+        "status": "completed",
+        "last_fetched_day": "2024-12-31"
+    },
+    "Bagasara": {
+        "status": "completed",
+        "last_fetched_day": "2024-12-31"
+    },
+    "Dhari": {
+        "status": "completed",
+        "last_fetched_day": "2024-12-31"
+    },
+    "Rajula": {
+        "status": "completed",
+        "last_fetched_day": "2024-12-31"
+    },
+    "Savarkundla": {
+        "status": "completed",
+        "last_fetched_day": "2024-12-31"
+    },
+    "Ahmedabad_Chimanbhai_Patal_Market_Vasana": {
+        "status": "completed",
+        "last_fetched_day": "2024-12-31"
+    },
+    "Bavla": {
+        "status": "completed",
+        "last_fetched_day": "2024-12-31"
+    },
+    "Dhandhuka": {
+        "last_fetched_day": "2024-12-23"
     }
 }

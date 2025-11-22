@@ -1,0 +1,1016 @@
+<ASCII-WIN>
+<Version:8><FeatureSet:InDesign-Roman><ColorTable:=<Black:COLOR:CMYK:Process:0,0,0,1>>
+<DefineParaStyle:CC-Body=<Nextstyle:CC-Body><cTypeface:Book Condensed><cSize:7.000000><cHorizontalScale:1.020000><pHyphenationLadderLimit:0><cLeading:7.500000><pHyphenationZone:0.000000><pTabRuler:4\,Left\,.\,0\,\;16\,Left\,.\,0\,\;33\,Left\,.\,0\,\;92\,Right\,.\,0\,\;><cFont:ITC Cheltenham Std>>
+<DefineParaStyle:CC-Courts=<BasedOn:CC-Body><Nextstyle:CC-Courts><KeyboardShortcut:Ctrl\+Num 1><cTypeface:95 Black><cSize:11.000000><cHorizontalScale:1.000000><cTracking:-50><cCase:All Caps><cLeading:12.000000><pSpaceBefore:12.000000><pSpaceAfter:2.000000><cFont:Helvetica Neue LT Std><pTextAlignment:Center>>
+<DefineParaStyle:CC-Dates=<BasedOn:CC-Body><Nextstyle:CC-Dates><cTypeface:95 Black><cHorizontalScale:1.000000><cCase:All Caps><pSpaceBefore:2.000000><pSpaceAfter:3.000000><cFont:Helvetica Neue LT Std><pKeepWithNext:1><pTextAlignment:Center>>
+<DefineParaStyle:CC-Time=<BasedOn:CC-Body><Nextstyle:CC-Body><cTypeface:Bold><cHorizontalScale:1.000000><pSpaceBefore:2.000000><pSpaceAfter:2.000000><pKeepParaTogether:1><pKeepLines:1><pTextAlignment:Center>>
+<DefineParaStyle:CC-Body\/no hang=<BasedOn:CC-Body><Nextstyle:CC-Body\/no hang><pFirstLineIndent:8.000000><pSpaceBefore:2.001599>>
+<DefineParaStyle:CC-Justice=<BasedOn:CC-Body><Nextstyle:CC-Justice><cTypeface:Bold><cHorizontalScale:1.000000><pSpaceBefore:2.000000><pSpaceAfter:2.000000><pKeepWithNext:1><pTextAlignment:Center>>
+<ParaStyle:CC-Courts><pTabRuler:None><cDirOverride:CLTR>APPELLATE <0x000A>DIVISION<cDirOverride:><cTypeface:Book Condensed><cSize:7.000000><cHorizontalScale:1.020000><cTracking:0><cCase:Normal><cFont:ITC Cheltenham Std><cDirOverride:CLTR>
+<cTypeface:><cSize:><cHorizontalScale:><cTracking:><cCase:><cFont:><cDirOverride:><pTabRuler:><ParaStyle:CC-Dates>Calendar for<0x000A> the December TErm
+<ParaStyle:CC-Dates>Tuesday, Nov. 25
+<ParaStyle:CC-Time>2 P.M.
+<ParaStyle:CC-Body>23/05396	People v. Neil Perdomo
+<ParaStyle:CC-Body>24/05240	Schneck v. NYS Department of Health 
+<ParaStyle:CC-Body>21/01797(1)	J., Semra v. Bejhan B.
+<ParaStyle:CC-Body>24/07011	Rodney v. 840 Westchester Ave. 
+<ParaStyle:CC-Body>24/03146	Best Work Holdings v. Ma
+<ParaStyle:CC-Body>24/06665(2)	Alfred v. Brutus
+<ParaStyle:CC-Body>23/01046	People v. Souleymane Diaby
+<ParaStyle:CC-Body>24/04668	People v. Malik Owens
+<ParaStyle:CC-Body>25/02464	Carnegie House v. NYS Division of Housing 
+<ParaStyle:CC-Body>24/04858(3)	Paris v. State of NY 
+<ParaStyle:CC-Body>24/05329(3)	Paris v. State of NY 
+<ParaStyle:CC-Body>23/01479	People v. Alvin Brown
+<ParaStyle:CC-Body>25/00542	Lee v. Jay Housing Corporation 
+<ParaStyle:CC-Body>25/02502	McLean v. Shanghai City Corp. 
+<ParaStyle:CC-Body>2015 - 2278	People v. Steven Walters
+<ParaStyle:CC-Body>24/05527	Fishman v. Romano
+<ParaStyle:CC-Body>22/05211	People v. Luis Morales
+<ParaStyle:CC-Body>25/02138	Wu v. Insitute of Electrical & Electronics 
+<ParaStyle:CC-Body>20/01634	People v. Josue Son y Son
+<ParaStyle:CC-Body>25/01656	1992 Third Realty v. Third Ave NY Realty
+<ParaStyle:CC-Dates>Wednesday, Nov. 26
+<ParaStyle:CC-Time>10 A.M.
+<ParaStyle:CC-Body>21/01640	People v. Miguel Aquirre
+<ParaStyle:CC-Body>24/06875	Telesford v. Port Authority of NY & NJ
+<ParaStyle:CC-Body>25/01159	L., Cory v. Alexandria O. 
+<ParaStyle:CC-Body>24/06926(2)	Anthony Partners v. Mici 
+<ParaStyle:CC-Body>23/06617	Scottsdale Insurance v. City of NY
+<ParaStyle:CC-Body>24/04256(2)	Carreno v. Chelsea Leaf 
+<ParaStyle:CC-Body>20/01785	People v. Isaiah Iyasere
+<ParaStyle:CC-Body>24/05936	People v. Aaron Young
+<ParaStyle:CC-Body>24/07742	217 Trust v. VIR Construction
+<ParaStyle:CC-Body>24/03917	Buckley v. Hearst Corporation 
+<ParaStyle:CC-Body>24/06358	Iroha Corporation v. Kookmin Best Insurance 
+<ParaStyle:CC-Body>25/02527	Valley National Bank v. Community Protestant Church
+<ParaStyle:CC-Body>23/00505	People v. Shakim Lassiter
+<ParaStyle:CC-Body>25/03310	Altamirano v. Frick Collection
+<ParaStyle:CC-Body>25/03989	Board of Managers v. 1055 Madison Avenue 
+<ParaStyle:CC-Body>24/03854	People v. Yvonne Johnson
+<ParaStyle:CC-Body>24/06594(2)	Shuler v. Cushner 
+<ParaStyle:CC-Body>25/03544	Fuentes v. Parkchester South Condominium 
+<ParaStyle:CC-Body>23/05567	People v. Calvin Peterkin
+<ParaStyle:CC-Body>23/05631	People v. Teon Seymore
+<ParaStyle:CC-Body>25/00681	885-887 Cauldwell v. 885 C. Realty
+<ParaStyle:CC-Dates>Friday, Nov. 28
+<ParaStyle:CC-Time>10 A.M.
+<ParaStyle:CC-Body>23/04595	People v. Rejaul Rajib
+<ParaStyle:CC-Body>24/05313N	Berger v.  NYC Transit Authority
+<ParaStyle:CC-Body>24/07847	B., Darlene v. Elsie R.
+<ParaStyle:CC-Body>25/00987N	Deutsche Bank v. Medina
+<ParaStyle:CC-Body>18/03541(1)	People v. Christians Gomez
+<ParaStyle:CC-Body>24/04929N	Taxi Tours v. Go NY Tours
+<ParaStyle:CC-Body>24/07684N	John Doe JP v. Archdiocese of NY
+<ParaStyle:CC-Body>23/00866	H., Aldin v. ACS
+<ParaStyle:CC-Body>24/07538N	Knight v. Family Energy
+<ParaStyle:CC-Body>25/00128N	Chen v. Chen
+<ParaStyle:CC-Body>24/02744	C., Miguel v. Bennie B.
+<ParaStyle:CC-Body>25/01777N	Silver Heights v. 972 La Forza
+<ParaStyle:CC-Body>25/01271N	Pivar v. Pivar
+<ParaStyle:CC-Body>24/00325(2)N	Buff v. Janover LLC 
+<ParaStyle:CC-Body>24/06090	M., Rajah v. Said B. 
+<ParaStyle:CC-Body>24/04817N	Rosenfeld v. Rosenfeld
+<ParaStyle:CC-Body>22/00923	People v. Mason Cousins
+<ParaStyle:CC-Dates>Tuesday, Dec. 2
+<ParaStyle:CC-Time>2 P.M.
+<ParaStyle:CC-Body>22/03697	People v. Marcelis Hill
+<ParaStyle:CC-Body>25/01215(2)	Steinmann v. Steinmann
+<ParaStyle:CC-Body>24/05409	P., Kirk
+<ParaStyle:CC-Body>24/07540(2)	JAK Advisors LLC v. Bauer 
+<ParaStyle:CC-Body>24/03119(2)	Greenman v. Miller 
+<ParaStyle:CC-Body>25/03881(2)	Mustafaj v. City of NY
+<ParaStyle:CC-Body>24/02900	People v. Anthony Vega
+<ParaStyle:CC-Body>18/04147	People v. Jefferson Jasmin
+<ParaStyle:CC-Body>25/04153	Continuum Energy v. Iron Oak
+<ParaStyle:CC-Body>24/06221	Tejeda v. 57th & 6th Ground
+<ParaStyle:CC-Body>24/07078	R., Tristan
+<ParaStyle:CC-Body>25/02809	Yolanda Management v. Microalgo, Inc. 
+<ParaStyle:CC-Body>24/04019	People v. Jose C. Rivera
+<ParaStyle:CC-Body>24/06207	PROF-2013-S3 Legal v. West Fork 
+<ParaStyle:CC-Body>25/01769	Kennedy v. Roman Catholic Archdiocese
+<ParaStyle:CC-Body>23/06363	People v. Jose De Los Santos
+<ParaStyle:CC-Body>24/06740	Watson v. Intercounty Paving 
+<ParaStyle:CC-Body>24/05793	People v. Keyshawn Kitchens
+<ParaStyle:CC-Body>24/04313	Arias v. Brooks Holding 
+<ParaStyle:CC-Body>25/02533(2)	PennyMac Loan Services v. Valdez
+<ParaStyle:CC-Body>24/05140N	S. G., an Infant v. NYC Health & Hospitals 
+<ParaStyle:CC-Dates>Wednesday, Dec. 3
+<ParaStyle:CC-Time>2 P.M.
+<ParaStyle:CC-Body>23/05494	People v. Jose Paniagua
+<ParaStyle:CC-Body>24/06799	Francois v. Lamburt
+<ParaStyle:CC-Body>24/07872	C., Cristal
+<ParaStyle:CC-Body>24/05785	Jackson v. Consolidated Edison 
+<ParaStyle:CC-Body>25/02151	Cantor Fitzgerald & Co. v. PEI Global 
+<ParaStyle:CC-Body>24/00479(1)	People v. Terrence Meggett
+<ParaStyle:CC-Body>24/00527(1)N	People v. Terrence Meggett
+<ParaStyle:CC-Body>25/04988	SilverLining Interiors v. Arencibia Constr
+<ParaStyle:CC-Body>24/05953	Wells Fargo Bank v. Hayden 
+<ParaStyle:CC-Body>25/00741	Batista-Rosa v. 1230 Franklin
+<ParaStyle:CC-Body>25/01590	A., Ronald v. Tyesha H. 
+<ParaStyle:CC-Body>23/05115	People v. Julio Cuevas
+<ParaStyle:CC-Body>24/00356(3)	Kohli v. Tewari
+<ParaStyle:CC-Body>24/04765(3)	Kohli v. Tewari
+<ParaStyle:CC-Body>24/05031	People v. Anthony Rosavong
+<ParaStyle:CC-Body>25/01385(2)	Pokoik v. Norsel Realties
+<ParaStyle:CC-Body>25/02936N	YS Div of Human Rights v. Dawn Homes Mgt 
+<ParaStyle:CC-Body>24/06915	Earl v. City of NY 
+<ParaStyle:CC-Body>19/4051	People v. Jaime Rodriguez
+<ParaStyle:CC-Body>24/06370(1)	Thompson v. Thompson
+<ParaStyle:CC-Body>24/05138(1)N	Thompson v. Thompson
+<ParaStyle:CC-Dates>Thursday, Dec. 4
+<ParaStyle:CC-Time>2 P.M.
+<ParaStyle:CC-Body>19/5884	People v. Shaquana Carter 
+<ParaStyle:CC-Body>25/00963	Koval v. Access Industries
+<ParaStyle:CC-Body>24/06517	K., Patricia v. David K.
+<ParaStyle:CC-Body>24/06590	Jones v. Marshalls 
+<ParaStyle:CC-Body>25/03927	Rosario v. Franklin Plaza Apartments
+<ParaStyle:CC-Body>25/01507(2)	Citigroup Global Markets v. SCIP Capital 
+<ParaStyle:CC-Body>23/01296	People v. Jason Washington
+<ParaStyle:CC-Body>22/01624	People v. Karon Agurs
+<ParaStyle:CC-Body>24/04589	Silva-Rios v. NY Presbyterian Columbia 
+<ParaStyle:CC-Body>25/01985	HNA Holdings v. TSCE 2007 
+<ParaStyle:CC-Body>25/03064	D./M., Children 
+<ParaStyle:CC-Body>25/04000	Denemark v. New Chapter Capital
+<ParaStyle:CC-Body>23/05451	People v. Kashaun Jones
+<ParaStyle:CC-Body>24/02784	Tilipman v. Korban 
+<ParaStyle:CC-Body>20/03313	People v. Amy Hartsgrove
+<ParaStyle:CC-Body>25/02136(2)	Haimovici v. Castle Village Owners
+<ParaStyle:CC-Body>25/00512	Szalkiewicz v. Liu
+<ParaStyle:CC-Body>18/5628	People v. Franklin Quiles 
+<ParaStyle:CC-Body>24/05655(2)	Izquierdo v. Amsterdam Ave. Redevelopment 
+<ParaStyle:CC-Body>24/04853(2)N	Izquierdo v. Amsterdam Ave. Redevelopment 
+<ParaStyle:CC-Body>23/06362N	N	47 Associates v. Jemsco Realty
+<ParaStyle:CC-Dates>Tuesday, Dec. 9
+<ParaStyle:CC-Time>2 P.M.
+<ParaStyle:CC-Body>24/03400	People v. Charlie Casillas
+<ParaStyle:CC-Body>25/00652	Pander v. Guildnet, Inc. 
+<ParaStyle:CC-Body>24/03499	M., Mayra v. Raoul G.
+<ParaStyle:CC-Body>24/01596N	olan v. State of New York
+<ParaStyle:CC-Body>23/03137	People v. Jose Monserrate
+<ParaStyle:CC-Body>24/04352	People v. Ali Hijazi
+<ParaStyle:CC-Body>24/06451	Russell v. Lenox Hill Hospital
+<ParaStyle:CC-Body>23/04248	People v. Everett Gausney
+<ParaStyle:CC-Body>24/07361	Korpenn LLC v. One Penn Plaza
+<ParaStyle:CC-Body>24/07809	Alphasense, Inc. v. Financial Technology 
+<ParaStyle:CC-Body>23/00205	People v. Jose Perez
+<ParaStyle:CC-Body>25/03898	Wells Fargo Bank v. UBS AG
+<ParaStyle:CC-Body>24/06793	Kola v. City of NY
+<ParaStyle:CC-Body>22/04871	People v. Jay Smith
+<ParaStyle:CC-Body>24/05068	Manhattan Organization v. City of NY 
+<ParaStyle:CC-Body>25/02669	Vassilev v. Vassilev 
+<ParaStyle:CC-Body>25/00145	Collazo v. Calvert Lancaster Housing
+<ParaStyle:CC-Body>24/01542	People v. Reinaldo Barada
+<ParaStyle:CC-Body>25/02876(1)	Bowman v. Cosby 
+<ParaStyle:CC-Body>24/07377(1)N	Bowman v. Cosby
+<ParaStyle:CC-Dates>Wednesday, Dec. 10
+<ParaStyle:CC-Time>2 P.M.
+<ParaStyle:CC-Body>20/02148	People v. Horaceo Gayle
+<ParaStyle:CC-Body>24/05643	Perez v. Norman<0x2019>s Cay Group
+<ParaStyle:CC-Body>24/06584	W., Gail v. Jasmine C.
+<ParaStyle:CC-Body>24/04710	Mendez v. City of NY 
+<ParaStyle:CC-Body>24/05783	Richardson v. City of NY 
+<ParaStyle:CC-Body>24/06416	Leon v. Plaza Construction 
+<ParaStyle:CC-Body>24/06774(1)	People v. Kyhree Page
+<ParaStyle:CC-Body>24/06788(1)N	People v. Kyhree Page
+<ParaStyle:CC-Body>24/01158	Michael Gross Diamonds v. Vaknin 
+<ParaStyle:CC-Body>25/00527N	orris v. Integral Yoga Institute 
+<ParaStyle:CC-Body>24/06574	Avi and Co. NY v. Certain Underwriters 
+<ParaStyle:CC-Body>23/06131	People v. Carlos Gonzalez
+<ParaStyle:CC-Body>24/07743(2)	Cohen v. Cohen 
+<ParaStyle:CC-Body>24/04247(1)	Brown v. Hossain
+<ParaStyle:CC-Body>21/04293	Century First Credit v. Priority Capital
+<ParaStyle:CC-Body>24/04593	People v. Sean Morton
+<ParaStyle:CC-Body>20/01850	People v. Manuel Cuevas
+<ParaStyle:CC-Body>24/04963	Brittany W. v. Miles-Gustave
+<ParaStyle:CC-Body>24/06295	Callan v. RCB3 Nominee
+<ParaStyle:CC-Body>24/05366	People v. Jorge L. Andujar
+<ParaStyle:CC-Body>24/06872	Brown v. City of NY 
+<ParaStyle:CC-Dates>Thursday, Dec. 11
+<ParaStyle:CC-Time>2 P.M.
+<ParaStyle:CC-Body>23/03397	People v. Mata Balogh
+<ParaStyle:CC-Body>24/03967	Garcia v. Citymeals-on-Wheels 
+<ParaStyle:CC-Body>25/00283	S., Jeremy v. Frasely P.
+<ParaStyle:CC-Body>24/06462	Medina v. 217 LLC
+<ParaStyle:CC-Body>24/04857	Rodriguez v. CB Developers 
+<ParaStyle:CC-Body>24/04524N	ational Community v. Midtown Coalition 
+<ParaStyle:CC-Body>25/03325	F.E. an Infant v. Ebrahim 
+<ParaStyle:CC-Body>24/07667	People v. Aaron Garcia
+<ParaStyle:CC-Body>24/03401	People v. Kingsley A Subonteng
+<ParaStyle:CC-Body>25/03668	McGough v. Phillips & Associates
+<ParaStyle:CC-Body>25/01100	Villarreal Garza v. Ramirez
+<ParaStyle:CC-Body>24/04591	People v. Jhowali S.
+<ParaStyle:CC-Body>25/02914	BH 336 Partners v. Sentinel Real Estate 
+<ParaStyle:CC-Body>24/04590	Madourie v. Montefiore Medical Center
+<ParaStyle:CC-Body>24/07714	Palma v. Woodside Ventures
+<ParaStyle:CC-Body>24/00609	People v. Travain Hillaire
+<ParaStyle:CC-Body>25/02825	Johnson v. Montefiore Medical Center
+<ParaStyle:CC-Body>24/05016	People v. Akim Massie
+<ParaStyle:CC-Body>20/04947	People v. Jorge Lazaro
+<ParaStyle:CC-Body>25/00205(2)N	Ellison v. Schulte
+<ParaStyle:CC-Body>25/02010N	Wallace v. Fundation Group
+<ParaStyle:CC-Dates>
+<ParaStyle:CC-Dates>Calendar for<0x000A> the January Term
+<ParaStyle:CC-Body\/no hang>The January 2026 Term will commence January 6, 2026. The Court will convene at 2:00 P.M. on Tuesdays, Wednesdays, and Thursdays, and at 10:00 A.M. on Fridays. Counsel who desire and are entitled to argument pursuant to Section 600.15(a) of the Court<0x2019>s rules but have commitments, including those of a religious nature, which will make them unavailable on particular dates during the term shall notify the Clerk in writing of such unavailable dates and reasons therefor, with copy to adversary, not later than 4 P.M. December 11, 2025. )
+<ParaStyle:CC-Body\/no hang>This information is essential at that time for consideration in preparation of the Day Calendars for the term. No change of calendar date can be made after the Day Calendars have been prepared.)
+<ParaStyle:CC-Body\/no hang>Respondents<0x2019> briefs are to be served and filed no later than December 10, 2025. Appellants<0x2019> reply briefs are to be served and filed no later than December 19, 2025. The last day to file stipulations of adjournment and time requests for oral argument is December 11, 2025.)
+<ParaStyle:CC-Body\/no hang>Cases are listed in alphabetical order, with civil cases appearing first.
+<ParaStyle:CC-Body>
+<ParaStyle:CC-Justice>Civil Cases
+<ParaStyle:CC-Body>25/860	10839 Associates v. Big Apple E (NY 651757/2023)
+<ParaStyle:CC-Body>24/7896	120 Main Hotel v. Sompo America Insurance (NY 651775/2024)
+<ParaStyle:CC-Body>25/855	144 Barrow v. Board of Managers (NY 152145/2021)
+<ParaStyle:CC-Body>25/5745	186 Norfolk LLC v. NYS Division of Housing (NY 158263/2024)
+<ParaStyle:CC-Body>24/7629	1946Tremont1B v. Nawal Realty (BX 26697/2020)
+<ParaStyle:CC-Body>24/4965	20 St. Marks v. St. Marks NY (NY 651521/2019)
+<ParaStyle:CC-Body>24/6709N	237 East 20 v. SD Second Avenue (NY 154062/2023)
+<ParaStyle:CC-Body>24/6495	27-21 27th Street v. Kanta (NY 652475/2023)
+<ParaStyle:CC-Body>24/7206(4)	350 East Houston St. v. Travelers Indemnity (NY 650450/2018)
+<ParaStyle:CC-Body>25/4506	415 East 12th Street v. Duran (NY 153014/2024)
+<ParaStyle:CC-Body>25/996	513 West 26th v. George Billis Galleries (NY 160266/2020)
+<ParaStyle:CC-Body>24/3058	64 West 10th St. v. L-Ray, LLC (NY 650670/2022)
+<ParaStyle:CC-Body>24/4544	721 Borrower v. Premier Digital (NY 652213/2023)
+<ParaStyle:CC-Body>24/4228	A., Messiah (BX B1659/2021)
+<ParaStyle:CC-Body>24/7265	A., Ola v. Bafode D. (NY V8732/2023)
+<ParaStyle:CC-Body>24/5758	A1 Specialized v. James River Insurance (NY 652944/2022)
+<ParaStyle:CC-Body>24/5959	ABJ 105 LLC v. Martinez (NY 650810/2023)
+<ParaStyle:CC-Body>24/5770	Abrams v. Abrams (NY 658845/2021)
+<ParaStyle:CC-Body>24/7233	Academic Health v. Ahluwalia (NY 650875/2024)
+<ParaStyle:CC-Body>24/7910	Acevedo v. City of NY (BX 20593/2020)
+<ParaStyle:CC-Body>24/1177	Adago v. Sy (NY 651241/2021)
+<ParaStyle:CC-Body>24/7221	AG1 Doe v. Morris (NY 950549/2020)
+<ParaStyle:CC-Body>25/6712	Air Products & Chemicals v. World Energy (NY 652646/2025)
+<ParaStyle:CC-Body>24/5602	Almodovar v. City of NY (NY 150953/2023)
+<ParaStyle:CC-Body>24/5894	Alonzo v. RP1185 LLC (NY 151861/2020)
+<ParaStyle:CC-Body>25/4576	Alshami v. State of NY (NY 142884)
+<ParaStyle:CC-Body>24/7703	Alston v. City of NY (BX 816709/2021)
+<ParaStyle:CC-Body>25/5636	Alter Domus (US) v. Lakeland Holdings (NY 651533/2025)
+<ParaStyle:CC-Body>25/1947	Altidor v. Medical Knowledge Group (NY 655007/2023)
+<ParaStyle:CC-Body>25/2827	Alvarado v. Local 1549 - N.Y.C. (NY 155407/2024)
+<ParaStyle:CC-Body>25/2027	Amancha v. 720-730 Fort Washington (NY 159285/2020)
+<ParaStyle:CC-Body>25/4813	Amirov v. Turtle Bay Tavern (BX 23467/2019)
+<ParaStyle:CC-Body>24/5263	AMK Capital v. Cifre Realty (BX 32374/2017)
+<ParaStyle:CC-Body>24/2293	AMK Capital v. Cifre Realty (BX 32374/2017)
+<ParaStyle:CC-Body>25/3694	Anand v. Gyebi (BX 29650/2017)
+<ParaStyle:CC-Body>24/5118	Anderson v. AAC Cross County Mall (BX 807798/2021)
+<ParaStyle:CC-Body>25/725	Andrade v. 1203 E New York Ave (NY 154137/2022)
+<ParaStyle:CC-Body>24/6503	Anthem Healthchoice v. Campion (NY 150663/2024)
+<ParaStyle:CC-Body>24/4755	Arch Insurance v. Selective Insurance (NY 654093/2019)
+<ParaStyle:CC-Body>25/817	Arena Vantage v. Actionable Process (NY 654396/2024)
+<ParaStyle:CC-Body>25/4031	Arizzo v. Ethicon, Inc. (NY 159122/2023)
+<ParaStyle:CC-Body>25/5359	Aroch v. 391 Broadway LLC (NY 158856/2017)
+<ParaStyle:CC-Body>24/6698	AS Helios LLC v. Chauhan (NY 850023/2016)
+<ParaStyle:CC-Body>24/6046	Askins v. Santos (NY 100964/2023)
+<ParaStyle:CC-Body>25/477N	Astraea NYNY v. Ganley (NY 650082/2021)
+<ParaStyle:CC-Body>25/690	Aurelius Capital v. Hertz International (NY 654710/2021)
+<ParaStyle:CC-Body>24/3263	Avison Young-NY v. 459 W 50 Street (NY 653521/2022)
+<ParaStyle:CC-Body>24/6697	B., Children (BX N13732/2022)
+<ParaStyle:CC-Body>24/6292	B., Christian (NY B5193/2022)
+<ParaStyle:CC-Body>25/919	B., Daryl v. Sophia P. (BX V15276/2015)
+<ParaStyle:CC-Body>25/2272	B., Victoria (BX N9766/2024)
+<ParaStyle:CC-Body>24/4226	B.A. v. H.K. (BX 76049/2013)
+<ParaStyle:CC-Body>24/7922	Barlotta v. A.O. Smith Water (NY 190020/2021)
+<ParaStyle:CC-Body>25/357	Barnes v. Mount Sinai (BX 29544/2020)
+<ParaStyle:CC-Body>25/3095	Beach v. Touradji Capital Management (NY 603611/2008)
+<ParaStyle:CC-Body>24/7479	Becker v. Hop Kee Restaurant (NY 152967/2018)
+<ParaStyle:CC-Body>24/5313N	Berger v. NYC Transit Authority (NY 157005/2018)
+<ParaStyle:CC-Body>25/559N	Berk v. Riverbay (BX 300068/2019)
+<ParaStyle:CC-Body>23/6096N	Bianculli v. City of NY Office Labor Relations (NY 160234/2022)
+<ParaStyle:CC-Body>25/1844	Blumenfeld v. Smith (NY 651069/2024)
+<ParaStyle:CC-Body>19/192	Blumenfeld v. Stable 49 (NY 157117/2017)
+<ParaStyle:CC-Body>25/1066	Board of Managers v. 45 East 22nd St. (NY 652530/2023)
+<ParaStyle:CC-Body>24/7359	Board of Managers v. 56th and Park (NY 655617/2021)
+<ParaStyle:CC-Body>25/2927	Board of Managers v. 56th and Park (NY 655617/2021)
+<ParaStyle:CC-Body>24/7412	Board of Managers v. 90 William St. Development (NY 654249/2021)
+<ParaStyle:CC-Body>24/4834	Borini v. Inform Studios (NY 654852/2023)
+<ParaStyle:CC-Body>25/1032	Borrero v. NYC Department Social Services (NY 100862/2024)
+<ParaStyle:CC-Body>24/6200	Borukhov v. Roth & Khalife LLP (NY 151786/2024)
+<ParaStyle:CC-Body>25/3450	Bren-el Realty v. Planetarium Travels (NY 160299/2022)
+<ParaStyle:CC-Body>24/7699	Brenes v. City of NY (BX 812868/2021)
+<ParaStyle:CC-Body>25/206	Bridge and Tunnel Officers v. Triborough Bridge & Tunnel (NY 652428/2024)
+<ParaStyle:CC-Body>25/3696	Brigade Cavalry Fund v. Chirico (NY 655678/2024)
+<ParaStyle:CC-Body>24/3645	Brito v. City of NY (NY 162008/2018)
+<ParaStyle:CC-Body>25/4817	Brown v. Bank of America (BX 802717/2022)
+<ParaStyle:CC-Body>24/6913	Bruni v. Board of Managers (NY 110305/2009)
+<ParaStyle:CC-Body>24/3107	Butler v. Marco Realty (NY 156776/2017)
+<ParaStyle:CC-Body>24/4187	C., Caylin (BX B1740/2023)
+<ParaStyle:CC-Body>25/3865	C., Kevon (BX B37293/2023)
+<ParaStyle:CC-Body>24/108	C., Shanyia (NY L3046/2020)
+<ParaStyle:CC-Body>25/3350	C./V., Children (BX N17231/2024)
+<ParaStyle:CC-Body>24/6899	Caguana v. 111 West 57th Property (NY 158637/2016)
+<ParaStyle:CC-Body>25/4778	Caguana v. 111 West 57th Property (NY 158637/2016)
+<ParaStyle:CC-Body>24/7046	Calix v. Union Theological (NY 152806/2020)
+<ParaStyle:CC-Body>24/6539	Calle v. 686 Broadway Realty (NY 158597/2019)
+<ParaStyle:CC-Body>25/1863	Calle v. JRR Contracting (BX 21943/2020)
+<ParaStyle:CC-Body>25/862	Camacho v. NYC Housing Authority (NY 101177/2023)
+<ParaStyle:CC-Body>24/6323	Campbell v. NYC Health & Hospitals (BX 26902/2020)
+<ParaStyle:CC-Body>25/2004	Canales v. Noble Construction (NY 161247/2019)
+<ParaStyle:CC-Body>25/1082	Canara Bank v. MVP Group (NY 654602/2023)
+<ParaStyle:CC-Body>25/6373(2)	Capitol Hill 505 v. Capital Hotel JV (NY 654052/2023)
+<ParaStyle:CC-Body>25/4953	Carbon Direct Fund v. Lanzatech Global, Inc. (NY 653024/2025)
+<ParaStyle:CC-Body>24/7089	Carrasquillo v. 303 W. 122nd Street (NY 153587/2024)
+<ParaStyle:CC-Body>25/1516	Carvello v. Warner Music Group (NY 952006/2022)
+<ParaStyle:CC-Body>25/1283	Carvello v. Warner Music Group (NY 952006/2022)
+<ParaStyle:CC-Body>25/4570	Castillo v. Cannon Point South, Inc. (NY 160080/2020)
+<ParaStyle:CC-Body>25/4941	Castle Village Owners v. Girardi (NY 654284/2023)
+<ParaStyle:CC-Body>25/677	Castro v. City of NY (BX 33106/2019)
+<ParaStyle:CC-Body>25/1933	Century Indemnity v. Office of the NY Attorney General (NY 158884/2024)
+<ParaStyle:CC-Body>25/2496	Certain Underwriters at Lloyd<0x2019>s v. Southwest Marine (NY 651449/2024)
+<ParaStyle:CC-Body>24/7619	Chan v. Wen (NY 650980/2022)
+<ParaStyle:CC-Body>25/340	Cheng v. State of NY Division of Housing (NY 155861/2023)
+<ParaStyle:CC-Body>25/2268	Cincinnati Terrace v. Tartar Krinsky & Drogin (NY 652629/2024)
+<ParaStyle:CC-Body>24/7239	City of NY v. Way.com (NY 452304/2024)
+<ParaStyle:CC-Body>25/5208	Colle Capital Partners v. Automaton, Inc. (NY 659292/2024)
+<ParaStyle:CC-Body>25/2154N	Contempo Acquisition v. Dawson (NY 154267/2014)
+<ParaStyle:CC-Body>24/6151	Contreras v. City of NY (NY 161063/2019)
+<ParaStyle:CC-Body>24/7360	Cook v. Hudson River Park Trust (NY 155891/2017)
+<ParaStyle:CC-Body>24/2030	Cook v. NYC Housing Authority (BX 800882/2024)
+<ParaStyle:CC-Body>24/371	Cooke v. Jean-Baptiste (BX 23742/2019)
+<ParaStyle:CC-Body>25/2172	Coronel v. Marcal Contracting Co. (BX 34145/2020)
+<ParaStyle:CC-Body>25/161	Corvus Capital v. Strand Hanson Ltd. (NY 651020/2024)
+<ParaStyle:CC-Body>24/3592	Country-Wide Insurance v. National Idemnity (NY 651516/2024)
+<ParaStyle:CC-Body>25/1714	Cronemeyer v. City of NY (NY 151551/2023)
+<ParaStyle:CC-Body>25/3328	Cruz v. NYC Housing Authority (NY 453052/2024)
+<ParaStyle:CC-Body>25/3038	CS Leveraged Loan v. Bank of America (NY 652151/2023)
+<ParaStyle:CC-Body>24/6679	Cui v. City of NY (NY 153478/2024)
+<ParaStyle:CC-Body>24/5434	Cummings v. City of NY (BX 802432/2023)
+<ParaStyle:CC-Body>24/6508	D&S v. GE Healthcare (NY 653909/2023)
+<ParaStyle:CC-Body>24/6827	D., Children (BX N10336/2021)
+<ParaStyle:CC-Body>25/807	D., Marie v. Frantz T. (NY V6153/2021)
+<ParaStyle:CC-Body>25/1582(2)	Davidoff Hutcher & Citron LLP v. McLendon (NY 653409/2023)
+<ParaStyle:CC-Body>25/5032	Day v. Plumber<0x2019>s Shop & Associates (NY 158691/2022)
+<ParaStyle:CC-Body>24/7336	De Castro v. West Farms (BX 21271/2020)
+<ParaStyle:CC-Body>24/6289	De Perez v. Fordham Valentine (BX 817049/2022)
+<ParaStyle:CC-Body>25/2399	Deutsche Bank National v. Washington (BX 35982/2014)
+<ParaStyle:CC-Body>25/2133	Diamond Films v. TV Azteca (NY 655384/2020)
+<ParaStyle:CC-Body>25/729	Diaz v. NYC Housing Authority (NY 152769/2024)
+<ParaStyle:CC-Body>25/3200	Discover Property v. National Football League (NY 652933/2012)
+<ParaStyle:CC-Body>25/3691	Discover Property v. National Football League (NY 652933/2012)
+<ParaStyle:CC-Body>25/1367	Ditech Financial v. Rector 70 (NY 850330/2018)
+<ParaStyle:CC-Body>25/5347	DKC Group Holdings v. Reece, Inc. (NY 655014/2024)
+<ParaStyle:CC-Body>24/5765	DLJ Mortgage Capital v. Adler (NY 850324/2018)
+<ParaStyle:CC-Body>25/4883	Doe v. Roman Catholic Archdiocese (BX 70048/2020)
+<ParaStyle:CC-Body>19/195N	Dogwood Residential v. Stable 49 (NY 157621/2015)
+<ParaStyle:CC-Body>25/4139	Doren v. Allstar Security & Consulting (NY 152450/2021)
+<ParaStyle:CC-Body>25/714	Dougherty v. City of NY (NY 155088/2023)
+<ParaStyle:CC-Body>25/4260	E. M., an Infant v. Paulino (BX 809824/2021)
+<ParaStyle:CC-Body>24/7390	E., Children (BX V31388/2023)
+<ParaStyle:CC-Body>25/6328	Efran v. Efran (NY 654577/2024)
+<ParaStyle:CC-Body>25/1400	Ellen<0x2019>s Stardust v. Sturm (NY 651690/2021)
+<ParaStyle:CC-Body>24/2765	Ellis v. City of NY (NY 157661/2021)
+<ParaStyle:CC-Body>24/7007	Elmaz v. CNY Construction (BX 29782/2017)
+<ParaStyle:CC-Body>23/5485	Encarnacion v. St. Barnabas Hospital (BX 302564/2016)
+<ParaStyle:CC-Body>25/687	Encarnacion v. St. Barnabas Hospital (BX 302564/2016)
+<ParaStyle:CC-Body>25/2278	Estate of Margaret Kainer v. Christies, Inc. (NY 650026/2013)
+<ParaStyle:CC-Body>24/6940(2)	Etkin v. Sherwood Residential Management (NY 655734/2021)
+<ParaStyle:CC-Body>24/6308	Falcao v. MTA (NY 154962/2018)
+<ParaStyle:CC-Body>24/7632	Federal National Mortgage v. Monegro (BX 35912/2015)
+<ParaStyle:CC-Body>24/4192(2)	Fernandez v. SUB 412 (NY 161024/2017)
+<ParaStyle:CC-Body>25/796	Fidelity National v. Berkshire Abstract (NY 151658/2015)
+<ParaStyle:CC-Body>25/325	Fidelity National v. Berkshire Abstract (NY 151658/2015)
+<ParaStyle:CC-Body>25/1833	Fidelity National v. Sky Abstract (NY 653378/2020)
+<ParaStyle:CC-Body>25/989	Fifth & 106th Street v. Hunt (NY 652614/2022)
+<ParaStyle:CC-Body>25/2228	Figueroa v. Empire Water Main & Sewer (NY 159739/2018)
+<ParaStyle:CC-Body>25/3153	Fisher v. Hudson Hall LLC (NY 156838/2024)
+<ParaStyle:CC-Body>25/4165	Flexjet, LLC v. Honeywell International (NY 651078/2023)
+<ParaStyle:CC-Body>24/4338	Flores v. NYC Health & Hospitals (BX 27869/2018)
+<ParaStyle:CC-Body>25/3509N	FORT CRE 22/FL3 v. Karasick (NY 654803/2024)
+<ParaStyle:CC-Body>25/3326	Frey v. Itzkowitz (NY 805014/2018)
+<ParaStyle:CC-Body>24/3531	Friedman v. Garnet Wines (NY 155385/2021)
+<ParaStyle:CC-Body>25/1006	G., Children (BX N9343/2024)
+<ParaStyle:CC-Body>25/2219	G., Eliezer (BX D5795/2024)
+<ParaStyle:CC-Body>25/4407	G., Jaloni (NY B2826/2021)
+<ParaStyle:CC-Body>25/1845	G., Jesus (BX D24208/2024)
+<ParaStyle:CC-Body>25/1410	G., Neida v. Jonathan E. (BX F14673/2023)
+<ParaStyle:CC-Body>24/7440	G., Tahira (NY N2188/2024)
+<ParaStyle:CC-Body>25/5931	G./A., Children (BX N3439/2025)
+<ParaStyle:CC-Body>24/5407	G./E., Children (BX N904/2022)
+<ParaStyle:CC-Body>24/4680	Gad v. CCC NFP (NY 654581/2021)
+<ParaStyle:CC-Body>24/6599	Galarza v. City of NY (BX 28727/2017)
+<ParaStyle:CC-Body>25/1741	Galloway v. Arthur Clinton Housing (BX 817237/2021)
+<ParaStyle:CC-Body>25/1311	Gamma USA, Inc v. Pavarini McGovern LLC (NY 655472/2023)
+<ParaStyle:CC-Body>25/110	Gans v. Leech Tishman Fuscaldo & Lampl (NY 152695/2024)
+<ParaStyle:CC-Body>24/6784	Garrido v. 200 Lenox Ave. (NY 160673/2020)
+<ParaStyle:CC-Body>24/6273	Georgia Malone & Co. v. E & M Associates (NY 150660/2014)
+<ParaStyle:CC-Body>24/5316(4)	Georgia Malone & Co. v. E & M Associates (NY 150660/2014)
+<ParaStyle:CC-Body>24/5930	Geostar Inc. v. Bank of Nova Scotia (NY 651187/2024)
+<ParaStyle:CC-Body>25/5811	Gilbert v. Powers (NY 650374/2023)
+<ParaStyle:CC-Body>24/7792	Gilbert v. Winston (NY 650374/2023)
+<ParaStyle:CC-Body>25/2210	Ginns v. Ginns (NY 160849/2022)
+<ParaStyle:CC-Body>25/2547	Glowatz v. City of NY (NY 159914/2023)
+<ParaStyle:CC-Body>24/4649	Golden Ox Realty v. Board of Managers (NY 159693/2014)
+<ParaStyle:CC-Body>24/6360	Goldman v. Icaro Media (NY 153193/2024)
+<ParaStyle:CC-Body>23/4921	Gomes v. Roux (NY 311028/2015)
+<ParaStyle:CC-Body>25/1612	Gomez v. Fremont (BX 23727/2019)
+<ParaStyle:CC-Body>24/3525	Gonzalez v. 60-74 Gansevoort (NY 157520/2017)
+<ParaStyle:CC-Body>25/4049	Gonzalez-Taveras v. City of NY (BX 21986/2015)
+<ParaStyle:CC-Body>24/461	Gordon v. Peck (NY 652345/2023)
+<ParaStyle:CC-Body>25/122	Gordon v. Triumph Construction (NY 656523/2022)
+<ParaStyle:CC-Body>25/3702	Goss-Lawson v. Matco Service Corporation (BX 810914/2024)
+<ParaStyle:CC-Body>25/383	Gottlieb v. Mountain Valley (NY 651393/2022)
+<ParaStyle:CC-Body>25/3074	Gray v. Nassau Life Insurance (NY 100369/2023)
+<ParaStyle:CC-Body>24/6191	Greenpoint Mortgage v. Ehrenthal (NY 115170/2008)
+<ParaStyle:CC-Body>24/1133	GT Securities v. Nurture Life (NY 652875/2023)
+<ParaStyle:CC-Body>24/3069	Gu v. Henry (NY 101237/2022)
+<ParaStyle:CC-Body>25/6839	Gulati v. Gulati (NY 365351/2025)
+<ParaStyle:CC-Body>25/5270N	Gurney-Goldman v. Solil Management (NY 655549/2023)
+<ParaStyle:CC-Body>25/4809	H. B. v. Archdiocese of NY (BX 70006/2020)
+<ParaStyle:CC-Body>25/3050	H., Bianca v. Bobby H. (NY O472/2024)
+<ParaStyle:CC-Body>24/3697	H., Children (NY N3624/2019)
+<ParaStyle:CC-Body>25/1025	H., Geannette v. John H. (BX V32464/2017)
+<ParaStyle:CC-Body>24/2115	Hall v. Middleton (NY 655003/2019)
+<ParaStyle:CC-Body>24/3179	Halperin v. Held & Hines LLP (NY 652124/2019)
+<ParaStyle:CC-Body>25/694	Hamilton v. Premier Home Health (BX 22046/2019)
+<ParaStyle:CC-Body>25/708	Harelick v. Lora (BX 31433/2017)
+<ParaStyle:CC-Body>24/7730	Harvardsky Prumyslovy v. Kozeny (NY 651826/2012)
+<ParaStyle:CC-Body>25/4926	HBK Master Fund v. Newrez LLC (NY 656286/2023)
+<ParaStyle:CC-Body>24/6949	Healy v. Kruger (NY 656130/2020)
+<ParaStyle:CC-Body>25/1282	Hearns v. Abeken Apartments (BX 801860/2022)
+<ParaStyle:CC-Body>25/167N	Henriquez v. NYCHA (BX 21718/2018)
+<ParaStyle:CC-Body>25/1054	Henriquez v. City of NY (NY 160044/2023)
+<ParaStyle:CC-Body>25/1667	Hermina v. 2050 Valentine Avenue (BX 813257/2024)
+<ParaStyle:CC-Body>24/6443	Hes v. Zirkin (NY 155457/2022)
+<ParaStyle:CC-Body>24/5196	Hidalgo v. Hoge (NY 157648/2021)
+<ParaStyle:CC-Body>25/3376	Ho v. Star Contractors (NY 652769/2022)
+<ParaStyle:CC-Body>24/2455	Holness v. Gold Crest (BX 804127/2022)
+<ParaStyle:CC-Body>24/7071	HSBC Bank v. Keeling (BX 35472/2015)
+<ParaStyle:CC-Body>24/5287	HSBC Mortgage Corporation v. Lau (NY 101869/2009)
+<ParaStyle:CC-Body>25/5194	Hubert-Ross v. Lane (NY 159048/2024)
+<ParaStyle:CC-Body>25/2292	Hudson ES LLC v. First Franklin Financial (NY 656449/2018)
+<ParaStyle:CC-Body>25/736	Hunold v. City of NY (NY 156864/2023)
+<ParaStyle:CC-Body>25/1579	Hyde v. Okolie (NY 152489/2016)
+<ParaStyle:CC-Body>25/2861	Iglhaut v. City of NY (BX 815904/2023)
+<ParaStyle:CC-Body>24/5722(4)	IKB International v. Morgan Stanley (NY 653964/2012)
+<ParaStyle:CC-Body>24/6290	In The Matter of Eugene Wu (NY 500017/2021)
+<ParaStyle:CC-Body>24/6381	Interebar Fabricators v. C.B. Contracting Corp. (NY 655852/2021)
+<ParaStyle:CC-Body>24/6530	Itzhak v. Briarwood Insurance (NY 651193/2024)
+<ParaStyle:CC-Body>24/7726	J. C., an Infant v. London (BX 33505/2020)
+<ParaStyle:CC-Body>25/2351	J. F. v. Archdiocese of NY (NY 950249/2019)
+<ParaStyle:CC-Body>25/5358	Jackson v. Laconia Nursing Home (BX 31977/2019)
+<ParaStyle:CC-Body>25/2668	Jacober v. Madan (NY 655495/2024)
+<ParaStyle:CC-Body>25/1509	Jadan v. 414 Gerard Owner (BX 815648/2022)
+<ParaStyle:CC-Body>24/6648	James, AG SNY v. Leasing Expenses Co. (NY 452357/2020)
+<ParaStyle:CC-Body>25/669	JDS Construction v. Cooper Services (NY 656912/2020)
+<ParaStyle:CC-Body>25/528	Jeanlouis v. NYC Dept. of Education (NY 153170/2024)
+<ParaStyle:CC-Body>25/6664	Jefferies LLC v. Mountain State Energy Holdings (NY 650599/2025)
+<ParaStyle:CC-Body>24/3539	Johnson v. AMF Bowling Centers (NY 450921/2019)
+<ParaStyle:CC-Body>24/2979	Jones Law Firm v. J Synergy (NY 653730/2023)
+<ParaStyle:CC-Body>25/3504	Josey v. NYC Department of Finance (BX 820117/2024)
+<ParaStyle:CC-Body>25/1111	Joyous JD Limited v. Yolanda Asset Management (NY 652028/2023)
+<ParaStyle:CC-Body>24/5838	K., Firoz v. Kaniz F. (BX V62/2022)
+<ParaStyle:CC-Body>24/7682	K., Leonie (BX N16962/2024)
+<ParaStyle:CC-Body>24/2933	Kambia Chios Realty v. Utica First Insurance (BX 803210/2021)
+<ParaStyle:CC-Body>24/6224	Kapitus Servicing v. Suburban Waste Services (NY 653525/2022)
+<ParaStyle:CC-Body>25/3510	Kassirer v. Gotlib (NY 654664/2024)
+<ParaStyle:CC-Body>25/3527	Kaufman v. Starbucks Corporation (NY 152147/2022)
+<ParaStyle:CC-Body>25/2062	Kay v. Citibank (NY 153366/2020)
+<ParaStyle:CC-Body>25/699	Khan v. Khan (BX 806075/2021)
+<ParaStyle:CC-Body>24/6960	Khusenov v. Tursunova (NY 313725/2013)
+<ParaStyle:CC-Body>25/5926N	King v. 8 Spruce (NY) Owner (NY 100594/2024)
+<ParaStyle:CC-Body>25/3943	King v. Global Experience (NY 151701/2020)
+<ParaStyle:CC-Body>24/6929	Kinsey v. Almazan (BX 800526/2023)
+<ParaStyle:CC-Body>24/4371	Kliger v. Briar Hill Realty (BX 807765/2021)
+<ParaStyle:CC-Body>25/387	L., Esther v. Chaim L. (NY F4070/2022)
+<ParaStyle:CC-Body>24/5183	Labby v. Cummings (NY 805428/2017)
+<ParaStyle:CC-Body>25/361	Lackwood v. Lackwood (NY 320024/2024)
+<ParaStyle:CC-Body>25/463	Lacruise v. Memorial Sloan-Kettering (NY 150195/2019)
+<ParaStyle:CC-Body>25/704	Lam Pearl Street v. Rinaldi (NY 159507/2021)
+<ParaStyle:CC-Body>24/7215	Lara v. Mount Sinai Hospital (NY 805250/2020)
+<ParaStyle:CC-Body>24/5381	Lardiere v. Site 6 DSA (NY 153260/2018)
+<ParaStyle:CC-Body>25/840	Lava Media v. Hart (NY 651035/2023)
+<ParaStyle:CC-Body>25/2994	Lebda v. Touro College School (NY 101271/2024)
+<ParaStyle:CC-Body>24/4818	Lebedev v. Migdal (NY 320246/2020)
+<ParaStyle:CC-Body>25/5709	Leffler v. Kotick (NY 155820/2018)
+<ParaStyle:CC-Body>25/4104	Lekhner v. 205-54 House Inc. (NY 655904/2024)
+<ParaStyle:CC-Body>25/2334	Lending Assets v. Gerbi (NY 152329/2023)
+<ParaStyle:CC-Body>24/1225	Leone v. Brown Foreman Corp. (NY 151627/2019)
+<ParaStyle:CC-Body>25/782	Levin v. Salvini (NY 650477/2017)
+<ParaStyle:CC-Body>25/5828	Lexington Avenue Hotel v. 525 Lexington Owner (NY 651969/2024)
+<ParaStyle:CC-Body>24/5294	Lexington Insurance v. NY Marine (NY 651214/2022)
+<ParaStyle:CC-Body>25/545	Lifshitz v. Brody (NY 652140/2024)
+<ParaStyle:CC-Body>25/4373	Light & Wonder, Inc. v. Mohawk Gaming Enterprises (NY 650148/2025)
+<ParaStyle:CC-Body>25/1716(2)	Link Motion v. DLA Piper (NY 653322/2022)
+<ParaStyle:CC-Body>25/3883	LNV Corporation v. Cordero (BX 380028/2010)
+<ParaStyle:CC-Body>25/5210	Lowman v. Consolidated Edison Company (NY 158715/2017)
+<ParaStyle:CC-Body>25/3133	Lurie v. NYC Department of Education (NY 162176/2023)
+<ParaStyle:CC-Body>24/6436	Lyons v. Sigma Management (NY 654360/2023)
+<ParaStyle:CC-Body>24/6724	M.G., Children (BX N32655/2023)
+<ParaStyle:CC-Body>25/3586	Ma v. Wang (NY 655044/2022)
+<ParaStyle:CC-Body>25/436N	Ma v. Wang (NY 655044/2022)
+<ParaStyle:CC-Body>24/4358	MacNeal v. Broadway Storage (NY 153540/2016)
+<ParaStyle:CC-Body>25/2962	Maddicks v. 106-108 Convent BCR (NY 656345/2016)
+<ParaStyle:CC-Body>25/3915N	Mangual v. New Life School (BX 815922/2022)
+<ParaStyle:CC-Body>25/4908	Margolies v. Margolies (NY 365102/2024)
+<ParaStyle:CC-Body>25/2661	Marinac v. Marinac (NY 365207/2022)
+<ParaStyle:CC-Body>24/1643	Markman v. NY-Presbyterian (BX 20302/2016)
+<ParaStyle:CC-Body>24/6464	Marks v. Cosmos Ventures (NY 156521/2017)
+<ParaStyle:CC-Body>24/7636	Massoumi v. Ganju (NY 654289/2020)
+<ParaStyle:CC-Body>20/1220N	McCarter & English v. National Collegiate (NY 654144/2018)
+<ParaStyle:CC-Body>25/5522	McIntyre v. FNY GP LLC (NY 656967/2020)
+<ParaStyle:CC-Body>25/2511	Medina v. Delta Air Lines (BX 23383/2019)
+<ParaStyle:CC-Body>24/3816	Meisenberg v. Sky House (NY 152964/2023)
+<ParaStyle:CC-Body>24/3696	Mendez v. Federal 53 Inc. (BX 800751/2022)
+<ParaStyle:CC-Body>25/3486	Menkes v. Beth Abraham Health (BX 29302/2002)
+<ParaStyle:CC-Body>25/5014	Menkes v. Beth Abraham Health (BX 29302/2002)
+<ParaStyle:CC-Body>25/1478	Menkes v. Mount Sinai Health System (NY 805082/2021)
+<ParaStyle:CC-Body>25/6334	Metropolitan Partners v. Nerney (NY 650013/2025)
+<ParaStyle:CC-Body>25/594	Meyer v. NY Lessee (NY 160358/2020)
+<ParaStyle:CC-Body>25/3208	Mezinev v. Smith & Co (NY 161367/2017)
+<ParaStyle:CC-Body>24/5767	MIC General Insurance v. Eckart (NY 651028/2022)
+<ParaStyle:CC-Body>24/6791	Middleton v. NYC Transit Authority (NY 656352/2023)
+<ParaStyle:CC-Body>25/3473	Migadde v. Permanent Mission of Uganda (NY 100820/2019)
+<ParaStyle:CC-Body>25/6436	Miller v. 22 Ericsson Owner (NY 650203/2022)
+<ParaStyle:CC-Body>25/326	Mills v. Santos (BX 35466/2020)
+<ParaStyle:CC-Body>25/4313	Milne Travel Agency v. ALTOUR Delaware (NY 654380/2024)
+<ParaStyle:CC-Body>25/703	Morales v. NYCHA (BX 814817/2023)
+<ParaStyle:CC-Body>25/2867	Moreno-Santos v. Real Builders (BX 26421/2019)
+<ParaStyle:CC-Body>24/5719	Mosley v. RCPI Landmark Properties (NY 150907/2018)
+<ParaStyle:CC-Body>25/3598	Moye v. Mount Sinai Hospital (NY 156584/2021)
+<ParaStyle:CC-Body>24/6168	Mueller v. Seed Invest Technology (NY 653225/2023)
+<ParaStyle:CC-Body>23/6574	Mujaj v. Devash LLC (NY 151529/2018)
+<ParaStyle:CC-Body>25/4710	Mulacek v. ExxonMobil Corporation (NY 659043/2024)
+<ParaStyle:CC-Body>24/2658	Muladzhanov v. City of NY (NY 157542/2020)
+<ParaStyle:CC-Body>24/50	N., Naomi (BX B7177/2014)
+<ParaStyle:CC-Body>25/3022	Najera-Ordonez v. 260 Partners L.P. (NY 160546/2017)
+<ParaStyle:CC-Body>25/3191	National Football League v. US Specialty Insurance (NY 654411/2022)
+<ParaStyle:CC-Body>25/4913	Nazario v. Bytedance Ltd. (NY 151540/2024)
+<ParaStyle:CC-Body>24/7195	Neubauer v. Archdiocese of NY (BX 70055/2021)
+<ParaStyle:CC-Body>25/200	New Empire Builder v. Onboard Hospitality (NY 652533/2020)
+<ParaStyle:CC-Body>25/2119	New Gold Equities v. AmGuard Insurance (BX 26968/2020)
+<ParaStyle:CC-Body>25/739	Nichols v. Red Hawk (NY 153981/2019)
+<ParaStyle:CC-Body>24/6485	Nochi Blue v. Board of Managers (NY 651571/2020)
+<ParaStyle:CC-Body>25/4360	North Flats LLC v. Belkin Burden Goldman (NY 150420/2022)
+<ParaStyle:CC-Body>25/1697	Noyack Medical v. Osk IX (NY 654665/2021)
+<ParaStyle:CC-Body>24/6457	NRD GP v. McCarthy (NY 654694/2022)
+<ParaStyle:CC-Body>25/2195	NYC Transit Authority v. Local 100 TWU (NY 452726/2024)
+<ParaStyle:CC-Body>25/5804	NYCTL 19/A Trust v. 196 East 7th Street (NY 158758/2020)
+<ParaStyle:CC-Body>24/5286	NYS Division of Human Rights v. Engolos LLC (NY 451501/2020)
+<ParaStyle:CC-Body>24/4036	NYS Unified Court v. NYS Public Employment (NY 161972/2023)
+<ParaStyle:CC-Body>24/7854	O., Eaton v. Orane O. (BX O10573/2024)
+<ParaStyle:CC-Body>25/1661	O., Monet v. Leroy B. (BX V15716/2021)
+<ParaStyle:CC-Body>24/6937	Ochoa v. C.I. Lobster Corp. (BX 815200/2022)
+<ParaStyle:CC-Body>25/5338	Odeon Capital Group v. AEON Biopharma (NY 654547/2023)
+<ParaStyle:CC-Body>24/5784	Odnoralov v. Weiner (NY 805088/2018)
+<ParaStyle:CC-Body>24/6858	O<0x2019>Flaherty v. Columbo (NY 157250/2017)
+<ParaStyle:CC-Body>25/26	O<0x2019>Hagan v. Robertson (NY 365265/2021)
+<ParaStyle:CC-Body>24/6477	Ortiz v. Fitzgerald (NY 150512/2019)
+<ParaStyle:CC-Body>25/2216N	Outlaw v. NYC Health & Hospitals (NY 155670/2023)
+<ParaStyle:CC-Body>25/2215	Outlaw v. NYC Health & Hospitals (NY 160027/2022)
+<ParaStyle:CC-Body>24/7851	P., Corby v. Deandra H. (BX V3526/2021)
+<ParaStyle:CC-Body>25/2597	Padilla v. 76 Eleventh Avenue (BX 32816/2019)
+<ParaStyle:CC-Body>24/3080	Paitchell v. Goldman (NY 654563/2021)
+<ParaStyle:CC-Body>25/4283	Panstar Realty v. NY Teachers Housing (BX 816592/2024)
+<ParaStyle:CC-Body>24/5569	Park Row 23 v. Jiha (NY 157547/2019)
+<ParaStyle:CC-Body>25/3431	Park West Executive Services v. Gallo Vitucci & Klar (NY 157052/2024)
+<ParaStyle:CC-Body>25/208	Payano v. Al Nahshal (BX 805850/2021)
+<ParaStyle:CC-Body>25/947N	Peck v. Milbank LLP (NY 152290/2022)
+<ParaStyle:CC-Body>24/5234	Peerenboom v. Marvel Entertainment (NY 162152/2015)
+<ParaStyle:CC-Body>25/6734	Pena v. City of NY (NY 157902/2024)
+<ParaStyle:CC-Body>25/2077N	Penske v. National Holding Corp. (NY 655002/2022)
+<ParaStyle:CC-Body>24/7241(2)	People of State NY v. VDARE Foundation (NY 453196/2022)
+<ParaStyle:CC-Body>24/2969	People of State of NY v. Richmond Capital (NY 451368/2020)
+<ParaStyle:CC-Body>25/4146	People of the State of NY v. TikTok Inc. (NY 452749/2024)
+<ParaStyle:CC-Body>25/2905	Perdomo v. 361 East Realty (NY 161139/2022)
+<ParaStyle:CC-Body>25/1712N	Perrotte v. Bloomberg L.P. (NY 451470/2020)
+<ParaStyle:CC-Body>25/2577	Pescales v. Pax Ventures (NY 653319/2019)
+<ParaStyle:CC-Body>24/6733	Pescales v. Pax Ventures (NY 653319/2019)
+<ParaStyle:CC-Body>24/6281	PH-105 Realty v. Elayaan (NY 656160/2016)
+<ParaStyle:CC-Body>24/6569	PH-105 Realty v. Elayaan (NY 656160/2016)
+<ParaStyle:CC-Body>25/1168(8)	Phone Administrative Services v. Verizon NY (NY 100329/2014)
+<ParaStyle:CC-Body>25/4661	Piletto v. Partners VII/535 (NY 150987/2020)
+<ParaStyle:CC-Body>25/389	Pineda v. NYC Health and Hospitals (BX 32274/2018)
+<ParaStyle:CC-Body>24/7216N	Prager Metis v. Koenig (NY 652000/2023)
+<ParaStyle:CC-Body>24/7217N	Prager Metis CPAS v. Goldstein (NY 651768/2023)
+<ParaStyle:CC-Body>25/813	Priority Management v. Deutsch (NY 656407/2022)
+<ParaStyle:CC-Body>25/967	ProSight v. Altruis Group (NY 653775/2023)
+<ParaStyle:CC-Body>25/647	Qiaoshang International v. Bryant Park Funding (NY 651888/2023)
+<ParaStyle:CC-Body>25/6336	Quichimbo v. Shain (BX 807039/2023)
+<ParaStyle:CC-Body>25/1351	Quintanar v. NYS Office of Attorney General (NY 160721/2022)
+<ParaStyle:CC-Body>24/7159	R., Children (BX N8253/2021)
+<ParaStyle:CC-Body>24/6089	R., Zion (NY N4449/2023)
+<ParaStyle:CC-Body>24/6601	Rachmanov v. Board of Standards & Appeals (NY 160502/2023)
+<ParaStyle:CC-Body>25/776	Ratner v. Mt Sinai (NY 153330/2021)
+<ParaStyle:CC-Body>24/7814	Reeves v. Foundation for the Child Victims (NY 150731/2019)
+<ParaStyle:CC-Body>24/6962	Rego Park Lender v. Golyan (NY 652901/2024)
+<ParaStyle:CC-Body>25/1150	Reyes v. HITE Construction (BX 28158/2016)
+<ParaStyle:CC-Body>25/1382	Rheubottom v. Huang (BX 34252/2018)
+<ParaStyle:CC-Body>25/3018	Richardson v. CE Solutions Group (NY 653369/2021)
+<ParaStyle:CC-Body>25/3505N	Richmond Global Compass v. Nascimento (NY 654190/2021)
+<ParaStyle:CC-Body>24/6051	Riederer v. Schulmann Properties (NY 158576/2019)
+<ParaStyle:CC-Body>25/2153	Rigaud v. 509 W 34 (NY 156460/2020)
+<ParaStyle:CC-Body>25/250	Riley v. Memorial Sloan Kettering (NY 156397/2020)
+<ParaStyle:CC-Body>25/5497	Rios v. City of NY (NY 153910/2018)
+<ParaStyle:CC-Body>25/1941	Rivera v. Masola (BX 814712/2022)
+<ParaStyle:CC-Body>25/3016	Robles v. 53-63 Walton LLC (BX 24281/2017)
+<ParaStyle:CC-Body>25/3651	Rodriguez v. Riverside Center Site (NY 157144/2017)
+<ParaStyle:CC-Body>24/5442	Rodriguez v. RXR Glen Isle (NY 155931/2019)
+<ParaStyle:CC-Body>24/7708	Romero v. Middleton (BX 27927/2019)
+<ParaStyle:CC-Body>25/685	Roque v. 240 Lincoln (BX 28997/2020)
+<ParaStyle:CC-Body>24/961	Rose Group Park v. Third Church Christ (NY 651390/2019)
+<ParaStyle:CC-Body>25/1702	Roth v. US Tennis Association (NY 154048/2021)
+<ParaStyle:CC-Body>25/2478	Roth v. Velasquez (NY 805197/2018)
+<ParaStyle:CC-Body>25/4417	Rothman v. Rothman (NY 158845/2024)
+<ParaStyle:CC-Body>25/4593	Rubin v. Kahlon (NY 152113/2024)
+<ParaStyle:CC-Body>24/3494N	S. M., an Infant v. City of NY (BX 27844/2020)
+<ParaStyle:CC-Body>24/2360	S., Antonio v. Rita S. (NY V8911/2020)
+<ParaStyle:CC-Body>25/1026	S., Laila (NY D1215/2023)
+<ParaStyle:CC-Body>24/5012	S.T.A. Parking v. Federal Insurance (NY 656508/2018)
+<ParaStyle:CC-Body>24/6523	Sanchez-Pesantez v. City of NY (NY 154634/2024)
+<ParaStyle:CC-Body>24/7716	Sanogo v. Giacomini (BX 33570/2020)
+<ParaStyle:CC-Body>25/403N	Santacruz v. 58 Gerry St. (BX 23434/2019)
+<ParaStyle:CC-Body>25/266	Santacruz v. 58 Gerry St. (BX 23434/2019)
+<ParaStyle:CC-Body>24/5923	Santiago v. Aluot Holdings (BX 809668/2023)
+<ParaStyle:CC-Body>24/4833	Saquicela-Villa v. City of NY (BX 806091/2023)
+<ParaStyle:CC-Body>25/3117	Sarmiento v. Method General Contractors (BX 819412/2023)
+<ParaStyle:CC-Body>24/6261	Scanlon v. South Street Seaport (NY 155345/2020)
+<ParaStyle:CC-Body>25/4188	Schiff v. Intersystem S&S Corp. (NY 155656/2019)
+<ParaStyle:CC-Body>24/7063	Schutzman v. 19 E. 72nd Street (NY 155251/2018)
+<ParaStyle:CC-Body>25/1700	Scott & Scott v. Kaplan LLP (NY 655731/2024)
+<ParaStyle:CC-Body>25/875	Sebasatiano v. Schermerhorn LLP (BX 21365/2014)
+<ParaStyle:CC-Body>25/1482N	Sekosan v. Bronx Women<0x2019>s Medical Pavilion (BX 810114/2023)
+<ParaStyle:CC-Body>25/570	Semon v. Pebble Corp. (NY 653380/2024)
+<ParaStyle:CC-Body>25/2757	Serrano v. Athena Properties (BX 814752/2023)
+<ParaStyle:CC-Body>24/6502	Serrano v. Judlau Contracting (NY 156263/2019)
+<ParaStyle:CC-Body>25/342N	Seymour v. Hovnanian (NY 154579/2016)
+<ParaStyle:CC-Body>25/2354	Seymour v. Hovnanian (NY 154579/2016)
+<ParaStyle:CC-Body>25/1379	Shanklin v. Wilhelmina Models, Inc. (NY 653702/2013)
+<ParaStyle:CC-Body>24/4506	Shuford v. City of NY (NY 155440/2021)
+<ParaStyle:CC-Body>24/6486	Siguencia v. The Hudson Companies (NY 152852/2019)
+<ParaStyle:CC-Body>25/3177	Silverman v. Pret a Manger (BX 811460/2024)
+<ParaStyle:CC-Body>24/5714	Simeone v. City of NY (NY 154763/2016)
+<ParaStyle:CC-Body>25/4758	Sinckler v. Mohammed (BX 800274/2024)
+<ParaStyle:CC-Body>25/5029	Sinckler v. Mohammed (BX 800555/2024)
+<ParaStyle:CC-Body>24/5610N	Sinera v. Bedford-Webster LLC (BX 23902/2015)
+<ParaStyle:CC-Body>25/3679	Singh v. EMV Contracting Corp. (BX 810094/2021)
+<ParaStyle:CC-Body>25/5726	SJI Renewable Energy v. REV LNG LLC (NY 652453/2025)
+<ParaStyle:CC-Body>25/656	SKYX Group v. Foundation for A Smoke Free World (NY 656417/2023)
+<ParaStyle:CC-Body>25/4075	SL 4000 Connecticut v. CBRE (NY 652275/2022)
+<ParaStyle:CC-Body>24/5593	Slifka v. Paul, Weiss, Rifkind, Wharton & Garrison (NY 155742/2023)
+<ParaStyle:CC-Body>24/6652	Smith v. Advance Auto Parts (NY 190261/2016)
+<ParaStyle:CC-Body>24/6653	Smith v. Advance Auto Parts (NY 190261/2016)
+<ParaStyle:CC-Body>25/2868	Smith v. Consolidated Edison (BX 801687/2022)
+<ParaStyle:CC-Body>25/4938	Smith v. Extell West 45th (NY 160712/2013)
+<ParaStyle:CC-Body>24/6571	Speechio v. Starbucks Corporation (NY 161323/2018)
+<ParaStyle:CC-Body>25/192	Spence v. Brosnan Risk Consultants (NY 651698/2023)
+<ParaStyle:CC-Body>25/2634	State Division of Human Rights v. Metrowireless 167 (BX 809843/2024)
+<ParaStyle:CC-Body>25/2242	State of NY v. JPMorgan Chase (NY 100559/2014)
+<ParaStyle:CC-Body>25/662	Staten v. City of NY (BX 30997/2018)
+<ParaStyle:CC-Body>24/7689	Stewart v. JMDH Real Estate (NY 159073/2020)
+<ParaStyle:CC-Body>24/365	Stile v. C-Air Customhouse (NY 656575/2020)
+<ParaStyle:CC-Body>23/2039N	Stile v. C-Air Customhouse (NY 656575/2020)
+<ParaStyle:CC-Body>25/3732	Stratis v. 345 Park Ave (NY 157849/2020)
+<ParaStyle:CC-Body>25/2664	Stumacher v. Medical Liability Mutual Ins. (NY 157477/2024)
+<ParaStyle:CC-Body>23/6718	Stuyvesant Town v. NYS Division of Housing (NY 154094/2021)
+<ParaStyle:CC-Body>25/4372	Suozzo v. Charles Schwab & Co. (BX 5596/2024)
+<ParaStyle:CC-Body>24/3198	T., Raudy v. Alejandro E. (BX V7262/2020)
+<ParaStyle:CC-Body>24/7941	T., Zanita (NY D3783/2024)
+<ParaStyle:CC-Body>25/155N	Tang v. NYC Transit Authority (NY 160343/2023)
+<ParaStyle:CC-Body>24/7224	Tartell v. Klein (NY 653837/2024)
+<ParaStyle:CC-Body>25/4792	Tekiner Chelsea v. Tekiner (NY 154224/2023)
+<ParaStyle:CC-Body>25/2302	Tekton Builders v. 1232 Southern Blvd. (BX 22310/2017)
+<ParaStyle:CC-Body>24/7660	Tender Touch v. Tnuzeg LLC (NY 653544/2021)
+<ParaStyle:CC-Body>25/1750	Thor 138 N. v. Goldberg Weprin Finkel (NY 652448/2018)
+<ParaStyle:CC-Body>24/3752	Tiffany & Company v. Lloyd<0x2019>s of London (NY 651544/2023)
+<ParaStyle:CC-Body>25/174	Torres v. 40 East End Ave. Associates (NY 150872/2020)
+<ParaStyle:CC-Body>25/894	Tower v. Structure Tone (NY 155169/2020)
+<ParaStyle:CC-Body>25/1326	Travelers Casualty v. Vale Canada (NY 654028/2021)
+<ParaStyle:CC-Body>24/7246N	TRB Acquisitions v. Yedid (NY 651160/2021)
+<ParaStyle:CC-Body>25/3886	Trump v. Trump (NY 453299/2021)
+<ParaStyle:CC-Body>25/291	Turner v. Pride & Services (NY 151428/2019)
+<ParaStyle:CC-Body>24/6874	U.S. Bank v. Gordon (BX 32441/2017)
+<ParaStyle:CC-Body>25/2596	UBS Securities v. Dondero (NY 650744/2023)
+<ParaStyle:CC-Body>25/1660	United States Fire Insurance v. Palin (NY 655765/2023)
+<ParaStyle:CC-Body>24/6475N	Unitrin Safeguard v. Della- Noce (NY 158834/2022)
+<ParaStyle:CC-Body>25/184N	US Bank National v. Brown (BX 380266/2012)
+<ParaStyle:CC-Body>24/7845	V., Shelby v. Joshua K. (NY V8867/2024)
+<ParaStyle:CC-Body>23/2794	Valarezo v. HP Jamsta Housing (NY 158491/2017)
+<ParaStyle:CC-Body>25/2877	Valencia v. Sol Goldman Investments (NY 151879/2020)
+<ParaStyle:CC-Body>24/7202	Vargas v. ESRT Empire State Building (NY 155627/2016)
+<ParaStyle:CC-Body>24/7674	Velasquez v. Rinaldi Group (NY 156864/2018)
+<ParaStyle:CC-Body>25/1942	Venegas v. CPC Norfolk Senior (NY 157330/2021)
+<ParaStyle:CC-Body>25/1665	Veolia Energy North America v. Enwave West Coast (NY 651265/2024)
+<ParaStyle:CC-Body>24/5210N	Vera v. Xolle Demo (BX 806929/2022)
+<ParaStyle:CC-Body>24/5617	Vola v. Tully Construction Co. (BX 23168/2020)
+<ParaStyle:CC-Body>25/2342	W. K. v. Archdiocese of NY (NY 950008/2020)
+<ParaStyle:CC-Body>25/1228	W., Faith (NY B8198/2022)
+<ParaStyle:CC-Body>25/1223	W., Jeremiah (BX E35002/2023)
+<ParaStyle:CC-Body>24/6024	W., Ka<0x2019>mel (NY N7960/2020)
+<ParaStyle:CC-Body>25/890	W., Macfadden (NY N66/2023)
+<ParaStyle:CC-Body>25/2470	W., Pascal v. Carlos M. (NY O5047/2022)
+<ParaStyle:CC-Body>25/1652	W., Rodney v. Uchechi C. (BX V62/2021)
+<ParaStyle:CC-Body>24/2869(3)	W./A., Children (BX N23438/2023)
+<ParaStyle:CC-Body>24/6914	Wagner v. 55 Tieman Owners (NY 158744/2019)
+<ParaStyle:CC-Body>24/4467	Wah Win Group v. 979 Second Avenue (NY 155492/2017)
+<ParaStyle:CC-Body>25/1037	Warneke v. Bronx Community Board 11 (BX 817899/2023)
+<ParaStyle:CC-Body>25/1773	Watson v. Roanoke Island (NY 952266/2023)
+<ParaStyle:CC-Body>25/3862	Waverly Real Estate v. Peretz (NY 650256/2024)
+<ParaStyle:CC-Body>25/516	Weinhardt v. NYC Transit Authority (NY 452432/2016)
+<ParaStyle:CC-Body>24/5045	Wells v. Atlantic Garage (NY 154918/2018)
+<ParaStyle:CC-Body>25/4773	Wells Fargo v. All Respondents (NY 154984/2021)
+<ParaStyle:CC-Body>25/1548	Wells Fargo Bank v. Iqbal (BX 35195/2014)
+<ParaStyle:CC-Body>24/7108	Westpoint Home v. Dormify, Inc. (NY 654611/2022)
+<ParaStyle:CC-Body>25/660	Wheeler v. Linden Plaza Preservation (NY 150079/2017)
+<ParaStyle:CC-Body>25/381N	Will of George Kaufman (NY 711/2018)
+<ParaStyle:CC-Body>24/4355	Will of Stanley Walker (NY 4613/2015)
+<ParaStyle:CC-Body>25/221	Williams v. Dia (BX 801635/2021)
+<ParaStyle:CC-Body>25/3926	Williams v. Williams (NY 151860/2024)
+<ParaStyle:CC-Body>24/7733N	Wilmington Savings v. Momtaj (BX 817411/2021)
+<ParaStyle:CC-Body>25/3874	Wilmington Savings Fund v. Obatusin (BX 808811/2022)
+<ParaStyle:CC-Body>25/2245	Wilmington Savings Fund v. Virgin (BX 381517/2010)
+<ParaStyle:CC-Body>25/3953	Wilson v. Archdiocese of NY (NY 950730/2021)
+<ParaStyle:CC-Body>24/5299	Yang v. Knights Genesis Group (NY 651118/2021)
+<ParaStyle:CC-Body>25/176	Yates v. City of NY (NY 157577/2018)
+<ParaStyle:CC-Body>24/1167	Yemeni-American Association v. Alsaede (BX 809649/2023)
+<ParaStyle:CC-Body>24/7791	Ziff v. Lombardo (NY 952010/2023)
+<ParaStyle:CC-Body>25/2232	Zurich American Insurance v. 56th & Park (NY) (NY 160495/2022)
+<ParaStyle:CC-Body>
+<ParaStyle:CC-Justice>Criminal Cases
+<ParaStyle:CC-Body>25/2524	Application for Warrant v. Art Institute of Chicago (NY 70042/2024)
+<ParaStyle:CC-Body>24/4948	People v. Carlos Medina (BX 158/2019)
+<ParaStyle:CC-Body>22/2525	People v. Abubakar Musah (NY 3986/2018)
+<ParaStyle:CC-Body>19/4291	People v. Adelmir Oliva (BX 304/18)
+<ParaStyle:CC-Body>23/1434	People v. Alberto Sanchez (BX 1359/2021)
+<ParaStyle:CC-Body>24/5340	People v. Aldo Jorge Rodriguez (BX 74794/2022)
+<ParaStyle:CC-Body>19/5242	People v. Alkim Billips (NY 4658/2017)
+<ParaStyle:CC-Body>24/5831	People v. Alvin Dixon (NY 71479/2024)
+<ParaStyle:CC-Body>23/4514	People v. Angel Benedith (BX 73248/2022)
+<ParaStyle:CC-Body>24/2409	People v. Angel Dejesus (BX 71262/2021)
+<ParaStyle:CC-Body>21/444	People v. Angel Nieves (NY 420/2018)
+<ParaStyle:CC-Body>23/6240	People v. Angel Rivas (BX 74026/2022)
+<ParaStyle:CC-Body>24/204	People v. Angel Rodriguez (BX 71764/2022)
+<ParaStyle:CC-Body>25/1448	People v. Angelo Torres (BX 75493/2023)
+<ParaStyle:CC-Body>24/3002	People v. Anibal Vega (BX 940/2021)
+<ParaStyle:CC-Body>24/3381	People v. Anolvis Acosta (BX 71886/2023)
+<ParaStyle:CC-Body>18/1757	People v. Anonymous (NY 3127/2015)
+<ParaStyle:CC-Body>22/2111	People v. Anthony Arriaga (BX 2529/2003)
+<ParaStyle:CC-Body>23/4105	People v. Anthony Henry (NY 5/2021)
+<ParaStyle:CC-Body>23/4783	People v. Anthony Tompson (NY 74206/2023)
+<ParaStyle:CC-Body>24/5912	People v. Antoine Parker (BX 73918/2023)
+<ParaStyle:CC-Body>23/3920	People v. Antonio Rodriguez (BX 74220/2022)
+<ParaStyle:CC-Body>23/316	People v. Anzar Thompson (NY 1954/2021)
+<ParaStyle:CC-Body>24/6132	People v. Arthur Hernandez (BX 2157/2014)
+<ParaStyle:CC-Body>18/2352	People v. Ashleigh Wade (BX 3441/15)
+<ParaStyle:CC-Body>23/942	People v. Ashley Simmons (BX 74375/2022)
+<ParaStyle:CC-Body>22/3832	People v. Askia Yaw (BX 70605/2022)
+<ParaStyle:CC-Body>22/3428	People v. Askia Yaw (BX 1364/2019)
+<ParaStyle:CC-Body>20/1387	People v. Athanasios Ioannidis (NY 74/2016)
+<ParaStyle:CC-Body>18/5805	People v. Avis Ruiz (BX 3418/2016)
+<ParaStyle:CC-Body>24/6234	People v. Babacrae Ndiaye (NY 72722/2023)
+<ParaStyle:CC-Body>24/551	People v. Barron Spruill (BX 70861/2021)
+<ParaStyle:CC-Body>21/3431	People v. Barron Williams (BX 1461/2019)
+<ParaStyle:CC-Body>22/851	People v. Benjamin Lowman (NY 1246/2021)
+<ParaStyle:CC-Body>24/5574	People v. Benvontay Fogler (NY 75342/2023)
+<ParaStyle:CC-Body>25/3282	People v. Benvontay Fogler (NY 72034/2024)
+<ParaStyle:CC-Body>21/2956	People v. Bernard Butts (BX 931/2018)
+<ParaStyle:CC-Body>22/1775	People v. Bernardo Ramos (NY 880/2020)
+<ParaStyle:CC-Body>23/3543	People v. Brian Brown (NY 73482/2022)
+<ParaStyle:CC-Body>19/1981	People v. Bridgitte Ascencio (NY 2537/2017)
+<ParaStyle:CC-Body>19/3841	People v. Bruce Lezama (BX 2668/2004)
+<ParaStyle:CC-Body>22/3833	People v. Carlos Reyes (BX 1351/2019)
+<ParaStyle:CC-Body>23/3178	People v. Carlyle Herring (NY 952/2021)
+<ParaStyle:CC-Body>24/1512	People v. Chad Gardner (BX 73347/2022)
+<ParaStyle:CC-Body>23/1107	People v. Charles Cherry (BX 860/2020)
+<ParaStyle:CC-Body>22/3655	People v. Charles Johnson (NY 3045/2015)
+<ParaStyle:CC-Body>19/3941	People v. Charles Washington (BX 4179/1982)
+<ParaStyle:CC-Body>20/1116	People v. Christian Cruz (NY 2294/2018)
+<ParaStyle:CC-Body>24/4569	People v. Christian Rojas (NY 73685/2023)
+<ParaStyle:CC-Body>23/1664	People v. Christopher Fuhrtz (NY 135/2021)
+<ParaStyle:CC-Body>23/1663	People v. Christopher Fuhrtz (NY 70281/2022)
+<ParaStyle:CC-Body>22/3663	People v. Christopher Rivas (NY 4769/2017)
+<ParaStyle:CC-Body>22/3516	People v. Christopher Santana (BX 70894/2021)
+<ParaStyle:CC-Body>24/5627	People v. Christopher Twilley (BX 71410/2023)
+<ParaStyle:CC-Body>23/1538	People v. Clayton Johnson (NY 71019/2021)
+<ParaStyle:CC-Body>19/3548	People v. Clinton Benjamin (NY 2561/2017)
+<ParaStyle:CC-Body>22/3053	People v. Corey Key (NY 70217/2021)
+<ParaStyle:CC-Body>24/5537	People v. Craig Ruggeri (NY 71234/2023)
+<ParaStyle:CC-Body>24/3699	People v. Crystal Hutson (NY 73288/2022)
+<ParaStyle:CC-Body>24/3160	People v. D. H. (NY 73020/2023)
+<ParaStyle:CC-Body>22/3041	People v. Daevon Jones (BX 1120/2019)
+<ParaStyle:CC-Body>25/759	People v. Daniel Simms (BX 75413/2023)
+<ParaStyle:CC-Body>22/1836	People v. Daniel Young (NY 2429/2017)
+<ParaStyle:CC-Body>23/3076	People v. Darnell Wynt (NY 2164/2019)
+<ParaStyle:CC-Body>23/5920	People v. Darrell Rhett (NY 75647/2022)
+<ParaStyle:CC-Body>20/298	People v. David Gonzalez (NY 2741/2016)
+<ParaStyle:CC-Body>25/4560	People v. David Sheard (BX 70158/2022)
+<ParaStyle:CC-Body>25/3445	People v. Davon Pleasant (BX 425/2021)
+<ParaStyle:CC-Body>25/1052	People v. Debra Graham (BX 71500/2024)
+<ParaStyle:CC-Body>25/2652	People v. Deizon Guithy (BX 74010/2023)
+<ParaStyle:CC-Body>23/5813	People v. Derek Johnson (BX 4710/1988)
+<ParaStyle:CC-Body>23/3068	People v. Derric McArn (BX 70902/2022)
+<ParaStyle:CC-Body>22/3019	People v. Derwin Blanks (BX 527/2020)
+<ParaStyle:CC-Body>22/4562	People v. Devante Gibson (NY 296/2021)
+<ParaStyle:CC-Body>20/1742	People v. Devon McNiell (BX 1510/2018)
+<ParaStyle:CC-Body>23/6132	People v. Devon Pleasant (BX 425/2021)
+<ParaStyle:CC-Body>25/1779	People v. Diamond Haggan (NY 74715/2024)
+<ParaStyle:CC-Body>19/4645	People v. Diane Hunt (NY 2907/2017)
+<ParaStyle:CC-Body>25/972	People v. Diondre Holman (BX 75322/2023)
+<ParaStyle:CC-Body>24/2372	People v. Dominique Johnson (BX 73748/2022)
+<ParaStyle:CC-Body>25/648	People v. Donald J. Trump (NY 71543/2023)
+<ParaStyle:CC-Body>21/4556	People v. Edgardo Perez (BX 44/2021)
+<ParaStyle:CC-Body>20/1782	People v. Edward Goldfaden (NY 728/2018)
+<ParaStyle:CC-Body>23/303	People v. Edwardo Rosario (BX 1478/2019)
+<ParaStyle:CC-Body>24/6946	People v. Edwardo Rosario (BX 70235/2024)
+<ParaStyle:CC-Body>18/1432	People v. Eigidio Lind (BX 3399/2012)
+<ParaStyle:CC-Body>22/5097	People v. Elias Ramos (BX 70166/2022)
+<ParaStyle:CC-Body>24/3586	People v. Elijah Delacruz (BX 1254/2019)
+<ParaStyle:CC-Body>24/6990	People v. Elvin Pacha aka Elvin Fernandez (NY 73890/2023)
+<ParaStyle:CC-Body>23/5117	People v. Eric Fullwood (BX 74218/2022)
+<ParaStyle:CC-Body>21/4557	People v. Esteban Dejesus (BX 995/2021)
+<ParaStyle:CC-Body>21/3191	People v. Esteban Villaman Almonte (BX 867/2019)
+<ParaStyle:CC-Body>22/3804	People v. Eugenia Pedraza (BX 58/2000)
+<ParaStyle:CC-Body>24/4962	People v. Fabian Brown (BX 71695/2023)
+<ParaStyle:CC-Body>19/1470	People v. Ferdinand Rivera (NY 3418/2016)
+<ParaStyle:CC-Body>18/1902	People v. Francisco De La Rosa (BX 1849/2015)
+<ParaStyle:CC-Body>23/2928	People v. Frederick Then (BX 1453/2018)
+<ParaStyle:CC-Body>24/4166	People v. Frederick White (BX 2875/2013)
+<ParaStyle:CC-Body>18/4740	People v. George Jones (NY 1577/17)
+<ParaStyle:CC-Body>24/3398	People v. Gerard Hines (BX 74840/2023)
+<ParaStyle:CC-Body>24/4374	People v. Gino Sozio (NY 70510/2023)
+<ParaStyle:CC-Body>22/5744	People v. Gregory Darby (NY 3925/2018)
+<ParaStyle:CC-Body>19/1276	People v. Gregory Washington (NY 1661/17)
+<ParaStyle:CC-Body>25/2339	People v. Hakim A (NY 71439/2023)
+<ParaStyle:CC-Body>25/2341	People v. Hakim A. (NY 71070/2024)
+<ParaStyle:CC-Body>17/138	People v. Horace Coleman (BX 2859/2012)
+<ParaStyle:CC-Body>20/2110	People v. Irving Talavera (NY 2989/2018)
+<ParaStyle:CC-Body>25/4444	People v. Isaiah Sullivan (NY 73346/2024)
+<ParaStyle:CC-Body>25/4445	People v. Isaiah Sullivan (NY 72000/2024)
+<ParaStyle:CC-Body>25/4446	People v. Isaiah Sullivan (NY 72357/2024)
+<ParaStyle:CC-Body>20/4864	People v. Issiac Daniel (BX 806/2018)
+<ParaStyle:CC-Body>24/553	People v. Ivan Rodriguez (BX 573/2020)
+<ParaStyle:CC-Body>20/3818	People v. Jalen Doctor (NY 539/2018)
+<ParaStyle:CC-Body>24/5932	People v. Jamal Brown (BX 72075/2023)
+<ParaStyle:CC-Body>18/4463	People v. Jamel Williams (BX 1477/15)
+<ParaStyle:CC-Body>22/4349	People v. Jaquan Moore (BX 193/2021)
+<ParaStyle:CC-Body>19/4425	People v. Jarell Cornelius (NY 3898/16)
+<ParaStyle:CC-Body>23/2642	People v. Jason Peguero (BX 73144/2022)
+<ParaStyle:CC-Body>18/2619	People v. Jason Polanco (BX 382/2015)
+<ParaStyle:CC-Body>24/2529	People v. Jason Young (BX 803/2020)
+<ParaStyle:CC-Body>24/3727	People v. Javien Mazyck (BX 70614/2023)
+<ParaStyle:CC-Body>23/4841	People v. Jefferey Jones (NY 70187/2022)
+<ParaStyle:CC-Body>16/1082	People v. Jeffrey Taylor (NY 5259/14)
+<ParaStyle:CC-Body>21/2571	People v. Jefry Flores (BX 1961/2019)
+<ParaStyle:CC-Body>18/2529	People v. Jennifer Berry (BX 2872/2015)
+<ParaStyle:CC-Body>24/6778	People v. Jeremy Grant (BX 73722/2023)
+<ParaStyle:CC-Body>22/4436	People v. Jeremy Scott-Mason (NY 2032/2021)
+<ParaStyle:CC-Body>23/3139	People v. Jermaine Jacobs (BX 74952/2022)
+<ParaStyle:CC-Body>24/6832	People v. Jesse Faulkner (NY 70284/2023)
+<ParaStyle:CC-Body>24/2558	People v. Jesse Joucoo (NY 2330/2018)
+<ParaStyle:CC-Body>23/960	People v. Johnny Marin (BX 331/2016)
+<ParaStyle:CC-Body>24/806	People v. Jonathan Alfonso (BX 2853/2010)
+<ParaStyle:CC-Body>25/2313	People v. Jonathan Arzu (BX 1351/2021)
+<ParaStyle:CC-Body>24/637	People v. Jonathan Cedeno	Albany	1132/2019)
+<ParaStyle:CC-Body>24/940	People v. Jonathan Rodriguez (NY 3736/2019)
+<ParaStyle:CC-Body>24/5489	People v. Jordan W. Hernandez (NY 71601/2024)
+<ParaStyle:CC-Body>23/1934	People v. Jordan Williams (NY 71002/2022)
+<ParaStyle:CC-Body>22/1871	People v. Jose Almodovar (BX 282/2020)
+<ParaStyle:CC-Body>23/469	People v. Jose Cabrera (BX 1131/2021)
+<ParaStyle:CC-Body>23/4784	People v. Jose Santos (BX 70917/2022)
+<ParaStyle:CC-Body>24/5503	People v. Joseph Campbell (BX 74965/2023)
+<ParaStyle:CC-Body>23/1039	People v. Joseph Garrett (NY 71726/2022)
+<ParaStyle:CC-Body>24/6554	People v. Joseph Montesquie (BX 74934/2023)
+<ParaStyle:CC-Body>25/444	People v. Joshua Brooks (BX 74238/2023)
+<ParaStyle:CC-Body>22/5772	People v. Joshua Soto (NY 2048/2021)
+<ParaStyle:CC-Body>20/3761	People v. Joshua Velez (BX 3130/2013)
+<ParaStyle:CC-Body>21/4670	People v. Juan Garcia (BX 1649/2017)
+<ParaStyle:CC-Body>24/4414	People v. Juan Rodriguez (BX 72856/2023)
+<ParaStyle:CC-Body>18/4928	People v. Juan Rosario (BX 2515/2014)
+<ParaStyle:CC-Body>22/1179	People v. Julio Pena (BX 707/2019)
+<ParaStyle:CC-Body>23/512	People v. Kaliq Robinson (BX 70127/2022)
+<ParaStyle:CC-Body>23/1150	People v. Kameke Jones (BX 2488/2017)
+<ParaStyle:CC-Body>24/5257	People v. Karan Geist (NY 73296/2022)
+<ParaStyle:CC-Body>24/419	People v. Kelvin Valdez (NY 955/2021)
+<ParaStyle:CC-Body>21/2844	People v. Kenny Johnson (BX 820/2021)
+<ParaStyle:CC-Body>23/4172	People v. Kshawn Bowers (BX 74425/2022)
+<ParaStyle:CC-Body>25/589	People v. Latrese Carr (BX 70323/2023)
+<ParaStyle:CC-Body>19/1868	People v. Lawrence Dilione (NY 1616/2017)
+<ParaStyle:CC-Body>23/2728	People v. Leuris Morales (NY 72246/2022)
+<ParaStyle:CC-Body>23/2784	People v. Leuris Morales (NY 70750/2023)
+<ParaStyle:CC-Body>23/2786	People v. Leuris Morales (NY 2029/2021)
+<ParaStyle:CC-Body>19/3752	People v. Linnel Odom (NY 361/2017)
+<ParaStyle:CC-Body>22/3048	People v. Lonzell Green (NY 894/2020)
+<ParaStyle:CC-Body>17/2061	People v. Lonzell Green (NY 2373/2014)
+<ParaStyle:CC-Body>24/6240	People v. Louis McDonald (BX 72250/2022)
+<ParaStyle:CC-Body>23/4594	People v. Lucas Almonte (NY 3945/2019)
+<ParaStyle:CC-Body>22/4810	People v. Luis Gonzalez (BX 72224/2022)
+<ParaStyle:CC-Body>23/988	People v. Luis Mendez (BX 70606/2022)
+<ParaStyle:CC-Body>22/4495	People v. Luis Padro-Rosario (BX 70294/2022)
+<ParaStyle:CC-Body>23/4296	People v. Luis Parada (NY 3800/2006)
+<ParaStyle:CC-Body>2012-03002	People v. Luis Torres (NY 5677/11)
+<ParaStyle:CC-Body>24/555	People v. Luz Hernandez (BX 72841/2023)
+<ParaStyle:CC-Body>19/2220	People v. Malachi Colon (NY 498/17)
+<ParaStyle:CC-Body>23/44	People v. Malachi Reynolds (BX 73227/2022)
+<ParaStyle:CC-Body>24/5035	People v. Manuel Vega (BX 73404/2023)
+<ParaStyle:CC-Body>18/4593	People v. Marc Irving (NY 2811/2017)
+<ParaStyle:CC-Body>23/5230	People v. Mario Cuello Guerrido (BX 1471/2021)
+<ParaStyle:CC-Body>21/3194	People v. Markiem Black (BX 390/2021)
+<ParaStyle:CC-Body>24/6006	People v. Marlon Alvarez (BX 679/2020)
+<ParaStyle:CC-Body>23/5807	People v. Marlon Cruz (NY 72996/2022)
+<ParaStyle:CC-Body>24/1429	People v. Marques McGeachy (NY 1630/2017)
+<ParaStyle:CC-Body>20/1056	People v. Maurice Kinsey (BX 2463/2017)
+<ParaStyle:CC-Body>22/3039	People v. Mauro Vivar (BX 272/2019)
+<ParaStyle:CC-Body>23/4599	People v. Melshawn Johnson (NY 1480/2021)
+<ParaStyle:CC-Body>24/1271	People v. Michael Antoine (BX 72192/2022)
+<ParaStyle:CC-Body>23/5811	People v. Michael Cortes (BX 70196/2022)
+<ParaStyle:CC-Body>24/7100	People v. Michael Jones (NY 1007/2017)
+<ParaStyle:CC-Body>25/156	People v. Michael King (BX 70954/2024)
+<ParaStyle:CC-Body>23/2074	People v. Michael Martin (NY 1369/2021)
+<ParaStyle:CC-Body>21/3854	People v. Michael Ortiz (BX 1554/2019)
+<ParaStyle:CC-Body>23/3631	People v. Michael Ortiz (BX 73484/2022)
+<ParaStyle:CC-Body>22/274	People v. Michael Ross (BX 267/2018)
+<ParaStyle:CC-Body>25/2633	People v. Michael Ross (BX 267/2018)
+<ParaStyle:CC-Body>25/587	People v. Michael T. Jackson (BX 73164/2023)
+<ParaStyle:CC-Body>24/7612	People v. Michael Worrell (BX 72226/2022)
+<ParaStyle:CC-Body>24/683	People v. Michelle Merritt (NY 71987/2022)
+<ParaStyle:CC-Body>19/3513	People v. Miguel Sabater (NY 846/18)
+<ParaStyle:CC-Body>24/927	People v. Mitchell Thompson (NY 969/2020)
+<ParaStyle:CC-Body>22/3528	People v. Mohamed Qatabi (NY 4477/2018)
+<ParaStyle:CC-Body>22/527	People v. Mustafa Barry (NY 2811/2018)
+<ParaStyle:CC-Body>24/3842	People v. Naquon Brockington (NY 70020/2024)
+<ParaStyle:CC-Body>23/2007	People v. Odalis Imbert (NY 70102/2022)
+<ParaStyle:CC-Body>24/268	People v. Omar Key (BX 893/2020)
+<ParaStyle:CC-Body>22/3476	People v. Omari Brown (NY 72756/2022)
+<ParaStyle:CC-Body>20/1212	People v. Paris Roberts (BX 851/2018)
+<ParaStyle:CC-Body>24/497	People v. Paulino Camacho (NY 484/2021)
+<ParaStyle:CC-Body>23/3063	People v. Pedro Rodriguez (BX 90020/2005)
+<ParaStyle:CC-Body>24/6180	People v. Penny Bradley (NY 2134/2019)
+<ParaStyle:CC-Body>23/2577	People v. Peterson Merant (NY 1058/2021)
+<ParaStyle:CC-Body>22/4434	People v. Rafael Silva (NY 1609/2020)
+<ParaStyle:CC-Body>23/3552	People v. Raheem Grant (BX 70331/2022)
+<ParaStyle:CC-Body>18/1549	People v. Rasheed Davis (BX 99082/16)
+<ParaStyle:CC-Body>22/4568	People v. Rasheed Davis (NY 684/2021)
+<ParaStyle:CC-Body>21/1191	People v. Raul Deleon (BX 2444/2019)
+<ParaStyle:CC-Body>24/4249	People v. Rene Garcia (BX 71139/2023)
+<ParaStyle:CC-Body>18/366	People v. Rene Rodriguez (NY 2231/15)
+<ParaStyle:CC-Body>23/213	People v. Reynaldo Peguero (BX 1058/2019)
+<ParaStyle:CC-Body>22/1295	People v. Rhan Francis (NY 1203/2020)
+<ParaStyle:CC-Body>24/4020	People v. Roberson Ortiz (BX 71607/2024)
+<ParaStyle:CC-Body>23/5052	People v. Rolando Calderon (BX 705/2016)
+<ParaStyle:CC-Body>24/426	People v. Rolando Tavarez (NY 4241/2015)
+<ParaStyle:CC-Body>24/6067	People v. Roniel Dotel (BX 71998/2023)
+<ParaStyle:CC-Body>19/3571	People v. Ronny Rocha (BX 2088/2014)
+<ParaStyle:CC-Body>22/3543	People v. Russell Smith (BX 130/16)
+<ParaStyle:CC-Body>24/6777	People v. Saint Robles (BX 72175/2023)
+<ParaStyle:CC-Body>22/5210	People v. Samuel Ocampos (BX 290/2021)
+<ParaStyle:CC-Body>23/703	People v. Samuel Whatts (NY 1986/2019)
+<ParaStyle:CC-Body>18/1943	People v. Samy Martinez-Jaquez (NY 2850/2016)
+<ParaStyle:CC-Body>23/6689	People v. Sean Jennings (BX 72831/2022)
+<ParaStyle:CC-Body>23/459	People v. Shawn Marquis (BX 770/2019)
+<ParaStyle:CC-Body>24/2449	People v. Shawndelle Jones (BX 73673/2023)
+<ParaStyle:CC-Body>22/4126	People v. Shayron Porter (NY 1670/2021)
+<ParaStyle:CC-Body>22/3040	People v. Stephanie Rodriguez (BX 1205/2019)
+<ParaStyle:CC-Body>21/3608	People v. Stephen Jackson (BX 1047/1983)
+<ParaStyle:CC-Body>24/4665	People v. Steve Darbasie (NY 70819/2023)
+<ParaStyle:CC-Body>22/651	People v. Talounzo O<0x2019>Connor (BX 71153/2021)
+<ParaStyle:CC-Body>23/182	People v. Tarik Jenkins (BX 828/2021)
+<ParaStyle:CC-Body>24/3432	People v. Tieara Richards (BX 74771/2022)
+<ParaStyle:CC-Body>22/1264	People v. Tony Thames (BX 1152/2019)
+<ParaStyle:CC-Body>24/4874	People v. Tranell Smalls (BX 74954/2022)
+<ParaStyle:CC-Body>24/4043	People v. Tyee Fisher (BX 70375/2023)
+<ParaStyle:CC-Body>25/1272	People v. Tyresse Minter (BX 71281/2023)
+<ParaStyle:CC-Body>22/2681	People v. Tyrone Brown (NY 1019/2020)
+<ParaStyle:CC-Body>22/2027	People v. Unique Woodfin (BX 1239/2016)
+<ParaStyle:CC-Body>23/6438	People v. Vincent Mitchell (BX 1336/2021)
+<ParaStyle:CC-Body>19/833	People v. Wesley Cooper (NY 4435/16)
+<ParaStyle:CC-Body>22/3361	People v. Wilfredo Gonzalez (NY 2/2021)
+<ParaStyle:CC-Body>23/414	People v. William Bunce (NY 71724/2022)
+<ParaStyle:CC-Body>24/3688	People v. William Lee (NY 753/2021)
+<ParaStyle:CC-Body>25/902	People v. Yanil Heredia Gomez (BX 70847/2022)
+<ParaStyle:CC-Body>19/4501	People v. Yonander Cuevas (BX 1163/2010)
+<ParaStyle:CC-Body>24/6760	People v. Yordani Urena (BX 70561/2023)
+<ParaStyle:CC-Body>19/3815	People v. Zephaniah Hulcome (NY 3947/2017)
+<ParaStyle:CC-Body>24/6239	People v. Zion Holley (BX 71116/2024)
+<ParaStyle:CC-Body>23/6595	People v. Kevin Bentley (NY 72475/2022)
+<ParaStyle:CC-Body>20/399	People v. Alexandros Lorentzos (NY 4439/2015)
+<ParaStyle:CC-Body>19/4466	People v. Franklin Quiles (NY 2863/2018)
+<ParaStyle:CC-Body>20/103	People v. Jorge Pichardo (BX 989/2018)
+<ParaStyle:CC-Body>19/5425	People v. Michael Brooks (NY 2094/2017)
+<ParaStyle:CC-Body>19/3415	People v. Neil Rodney (BX 2249/15)<cTypeface:95 Black><cHorizontalScale:1.000000><cCase:All Caps><cFont:Helvetica Neue LT Std>
+<cTypeface:><cHorizontalScale:><cCase:><cFont:><ParaStyle:CC-Justice>*****
+<ParaStyle:CC-Body\/no hang><pTabRuler:None><cDirOverride:CLTR>The following cases have been scheduled for pre-argument conference on the dates and at the times indicated: 
+<cDirOverride:><pTabRuler:><ParaStyle:CC-Justice><pTabRuler:None><cDirOverride:CLTR>Renwick, P.J., Manzanet, <0x000A>Kapnick, Webber <0x000A>and Kern, JJ.<cDirOverride:><cTypeface:Book Condensed><cHorizontalScale:1.020000><cDirOverride:CLTR>
+<cTypeface:><cHorizontalScale:><cDirOverride:><pTabRuler:><ParaStyle:CC-Dates>Friday, Nov. 21
+<ParaStyle:CC-Time>12:30 P.M.
+<ParaStyle:CC-Body>22104/2015 Rosario v. Muschett
+<ParaStyle:CC-Dates>Monday, Dec. 1
+<ParaStyle:CC-Time>12:30 P.M.
+<ParaStyle:CC-Body>22638/15 Rosario v. Mani
+<ParaStyle:CC-Dates>Tuesday, Dec. 2
+<ParaStyle:CC-Time>10 A.M.
+<ParaStyle:CC-Body>652913/19 Murphy Kennedy Group v. Board of Managers
+<ParaStyle:CC-Time>11 A.M.
+<ParaStyle:CC-Body>21109/17 Barbaro v. JJ Coco Nail & Spa
+<ParaStyle:CC-Dates>Wednesday, Dec. 3
+<ParaStyle:CC-Time>10 A.M.
+<ParaStyle:CC-Body>654293/23 Cheng v. 50 Lex Development
+<ParaStyle:CC-Body>804507/22 Arrington v. 1256 Clay Avenue
+<ParaStyle:CC-Dates>Thursday, Dec. 4
+<ParaStyle:CC-Time>10 A.M.
+<ParaStyle:CC-Body>21930/19 Colon v. 251 Lexington
+<ParaStyle:CC-Dates>Wednesday, Dec. 10
+<ParaStyle:CC-Time>10 A.M.
+<ParaStyle:CC-Body>656864/17 AI International Holdings v. TWC Borrower
+<ParaStyle:CC-Courts><pTabRuler:None><cDirOverride:CLTR>APPELLATE<0x000A>term
+<cDirOverride:><pTabRuler:><ParaStyle:CC-Justice><pTabRuler:None><cDirOverride:CLTR>60 Centre Street<0x000A>Room 401
+<cDirOverride:><pTabRuler:><ParaStyle:CC-Time>10 A.M.
+<ParaStyle:CC-Body\/no hang><pTabRuler:None><cDirOverride:CLTR>Commencing with the September 2025 Term, all oral arguments at the Appellate Term, First Department will be in person. Counsel and pro se litigants also have the option to submit.
+<cDirOverride:><pTabRuler:>

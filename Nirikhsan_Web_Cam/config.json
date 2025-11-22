@@ -1,0 +1,45 @@
+{
+  "camera": {
+    "device_index": 0,
+    "frame_width": 640,
+    "frame_height": 480
+  },
+  "detection": {
+    "min_detection_confidence": 0.5,
+    "min_tracking_confidence": 0.5,
+    "face_recognition_tolerance": 0.5,
+    "re_detect_interval": 60,
+    "iou_overlap_threshold": 0.5,
+    "missing_pose_threshold": 5
+  },
+  "alert": {
+    "default_interval_seconds": 10,
+    "alert_cooldown_seconds": 2.5,
+    "default_required_action": "Wave Right"
+  },
+  "performance": {
+    "gui_refresh_ms": 30,
+    "pose_buffer_size": 12,
+    "min_buffer_for_classification": 8,
+    "frame_skip_interval": 2,
+    "enable_frame_skipping": true
+  },
+  "logging": {
+    "log_directory": "logs",
+    "session_log_file": "session.log",
+    "event_log_file": "events.csv",
+    "max_log_size_mb": 10,
+    "max_log_files": 5,
+    "auto_flush_interval": 50
+  },
+  "storage": {
+    "alert_snapshots_dir": "alert_snapshots",
+    "target_images_dir": ".",
+    "pose_references_dir": "pose_references",
+    "snapshot_retention_days": 30
+  },
+  "monitoring": {
+    "enable_session_timer": true,
+    "session_restart_prompt_hours": 8
+  }
+}

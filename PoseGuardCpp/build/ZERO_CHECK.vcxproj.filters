@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\CUDA_Experiments\Git_HUB\PoseGuardCpp\build\CMakeFiles\6007412432d279512b6af9ee7890d65c\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{A2ED0245-42FF-323E-BE09-63BCDC1A060E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
